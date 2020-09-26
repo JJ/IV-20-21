@@ -26,8 +26,7 @@ anterior, he [seguido las instrucciones para reenvíos](http://jj.github.io/IV/d
 ## Lista de comprobación para objetivos (sólo objetivos)
 
 * [ ] He llevado a cabo las actividades correspondientes al objetivo y he entendido para qué sirve.
-* [ ] He actualizado con la última versión del fichero de entrega y
-  añadido mi contribución en una línea que no cree conflictos
+* [ ] He actualizado con la última versión del fichero de entrega usando `pull --rebase`
   
   
 ## Descripción de la entrega (sólo si es un reenvío)

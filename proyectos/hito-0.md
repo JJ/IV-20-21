@@ -43,7 +43,7 @@
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
-| RUIZ MEDINA, DANIEL| | |
+| RUIZ MEDINA, DANIEL| [PAndemium](https://github.com/DanielRuizMed/PAndemium) | v0.1.0 |
 | SANZ SANCHEZ, MARIA| | |
 | SOLERA LINARES, SARA| | |
 | STETSKIY , NIKITA| | |

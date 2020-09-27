@@ -1,6 +1,5 @@
 # Tercera semana, 23 de septiembre
 
-Recordatorio:  [seminario de la asignatura sobre microservicios basados en eventos](https://www.meetup.com/es-ES/LibreLabGRX/events/264809941/), justo después de clase.
 
 ## Objetivos de la semana
 

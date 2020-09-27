@@ -8,3 +8,4 @@
 - [X] Vernos las caras.
 - [X] Explicar el hito 0. Fecha de entrega: martes 29 de septiembre, 11:30 de la mañana.
 - [X] Empezar a usar git y GitHub. Por ejemplo, seguir este vídeo o cualquier otro tutorial online.
+- [X] Completados [ejercicios](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema%201%20Introduccion/Ejercicios/Ejercicios_tema_1.md) propuestos de teoría.

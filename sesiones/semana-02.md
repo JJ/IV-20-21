@@ -1,6 +1,6 @@
 # Semana del 29 de septiembre
 
-Agradeceré que contestes la
+Agradeceré que, si todavía no lo has hecho, contestes la
 [encuesta inicial](https://docs.google.com/forms/d/e/1FAIpQLSeMknM68xF9D-n_ej6ppjEDi3xkxjzMBcSu_zopwLIZ1LRfJQ/viewform). Se
 recuerda al estudiante que es su responsabilidad asistir a clase o, si
 no es posible,
@@ -14,9 +14,6 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 ## Objetivos a cubrir en la sesión
 
 1. Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
-2. Comprender las técnicas de cálculo del coste de amortización de un
-equipo informático y aplicarlo al cálculo del coste de uso de un
-recurso.
 2. Entender el soporte en hardware de las técnicas de virtualización y cómo se extiende ese soporte al núcleo de los sistemas operativos. Saber si el ordenador habitual lo usa.
 4. Comprender los niveles de virtualización y sus denominaciones genéricas.
 5. Comprender el concepto de *X as a service* y comprender los
@@ -27,12 +24,21 @@ recurso.
 ## Contenidos
 
 * Antes de esta clase, haber entregado el [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+* Errores comunes en la entrega:
+  * En esta asignatura, todo tiene sentido y está encaminado a asentar un objetivo de aprendizaje; desde la creación de un PR hasta cómo se organiza un repositorio ⇒ no lo hagáis por hacerlo y dejarlo hecho. Hacedlo porque lo habéis entendido.
+	* En particular, mirad la plantilla que se ha creado para haceros más fáciles los PRs. Borrad lo que no corresponda, rellenad lo que se os pida.
+	* Los ejercicios son de autoevaluación, y el que lo hayáis hecho se refleja en el fichero de objetivos. No entrguéis el fichero cuando y si tenéis que entregar el hito. Hacedlo cuando hayáis cumplido los objetivos. Normalmente es un porcentaje de todos los que aparecen, podéis elegir los que os parezcan más útiles.
+		* Recordatorio: hay que [poner al final de cada semana los objetivos alcanzados](Cumpliendo_Objetivos.md),
+  y siempre antes de la entrega del hito del proyecto.
+	* Cuidad las entregas y entender los errores que se producen a qué se deben.
+	* Aprovechad las 4 horas de clase/prácticas para llevar a cabo los objetivos/hitos. Siempre habrá uno, o dos, profesores presentes para ayudaros.
+	
 * Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura; si no es posible, asegurarse de que el sistema operativo del ordenador es capaz de manejar, al menos, varias máquinas virtuales Linux a la vez, así como contenedores Docker.
 * Manejar de forma básica la línea de órdenes de Linux.
+  * Incluyendo el cliente de GitHub (oficial gh o extraoficial hub).
 * Aprender a instalar software libre en Linux.
 * Entender el concepto de sistema de ficheros virtual usado en Linux para diferentes menesteres.
-* Recordatorio: hay que [poner al final de cada semana los objetivos alcanzados](Cumpliendo_Objetivos.md),
-  y siempre antes de la entrega del hito del proyecto.
+
 * Revisar algún ejercicio de un compañero/a y sugerir cambios o
   mejoras. Se puede hacer, de la misma forma, mediante un *pull
   request*, en este caso al repo del compañero.
@@ -47,7 +53,7 @@ recurso.
 
 * *Práctica*:
   [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo
-  para la entrega de este primer hito: **11:30 del 6 de octubre de 2019**.
+  para la entrega de este primer hito: **11:30 del 6 de octubre de 2020**..
   
 ## Material adicional
 

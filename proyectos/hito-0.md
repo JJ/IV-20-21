@@ -1,13 +1,13 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| AZAÑON CANTERO, SERGIO| | |
+| AZAÑON CANTERO, SERGIO| [ReserveIt-API](https://github.com/sergiocantero8/ReserveIt-API) | v0.0.2 |
 | BELTRAN SANCHEZ, FRANCISCO| [F1-Predictor](https://github.com/currobeltran/F1-Predictor) | v0.0.1 |
 | BENAVIDES RODRIGUEZ, JAVIER| | |
 | CABRITA GOMEZ, VICTOR| | |
 | CANO JEREZ, IRENE| [IdiomasIV](https://github.com/irenecj/ProyectoIdiomasIV) | v0.0.1 |
 | CHAVES CABALLERO, MARIO| | |
-| CHEKFEH AL-SABBAGH, MOHAMED BILAL| | |
-| COCA CRUZ, SIXTO| | |
+| CHEKFEH AL-SABBAGH, MOHAMED BILAL| [GameStore](https://github.com/BilalKxK99/GameStore) | v0.0.2  |
+| COCA CRUZ, SIXTO| [DreamBLeague](https://github.com/SixtoCoca/DreamBLeague) | v.0.0.1|
 | CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | v0.0.3 |
 | DEL POZO MORENO, RAUL| | |
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
@@ -29,14 +29,14 @@
 | MERELO MOLINA, CECILIA| [VizYourData](https://github.com/cecimerelo/VizYourData) | v0.0.2 |
 | MERELO MOLINA, ELENA| [goFit](https://github.com/ElenaMerelo/goFit)| v0.0.1 |
 | MOLINERO CASTILLO, JONATHAN| | |
-| MONTESINOS PERUJO, ISMAEL| [Diraya2.0](https://github.com/ismaelmontesinos/RegistroDiraya) | v0.0.1 |
+| MONTESINOS PERUJO, ISMAEL|[Diraya2.0](https://github.com/ismaelmontesinos/RegistroDiraya)| v0.0.2 |
 | MORENO VILCHEZ, FRANCISCO JOSE| | |
 | NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | v0.0.1 |
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v0.0.1 |
 | PEREZ MENDEZ, PABLO| | |
 | PINEDA MUÑOZ, JUAN CARLOS| | |
-| PRIETO INFANTE, JAVIER| | |
+| PRIETO INFANTE, JAVIER| [PeluqueriaUnisex](https://github.com/JaviPrieto/PeluqueriaUnisex) | v0.0.1 |
 | REVELLES PEREZ, ANTONIO JOSE| [ListerYourMood](https://github.com/AntonioRev/ListenYourMood) | v0.0.1 |
 | RIVERA PEÑA, JUAN ALBERTO| [YourLife](https://github.com/juanalberto58/AppIV)| v0.0.1 |
 | RODRIGUEZ LOPEZ, ALEJANDRO|[HDN.PG](https://github.com/alexrodriguezlop/HDN.PG)  |*v0.0.1* |
@@ -48,7 +48,7 @@
 | SANZ SANCHEZ, MARIA|[MakeupIV](https://github.com/mariasanzs/makeupIV) | v0.0.2 |
 | SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | v0.0.1 |
 | STETSKIY , NIKITA| [Micro-Calendario](https://github.com/nikitastetskiy/micro-calendario) | v0.0.1 |
-| TORRES BAREA, FRANCISCO JAVIER| | |
+| TORRES BAREA, FRANCISCO JAVIER|[CloudFood](https://github.com/FranToBa/CloudFood) | v0.0.1 |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| [PiHoleUpdater](https://github.com/LeandroVP/PiHoleUpdater) | v0.0.1 |

@@ -49,7 +49,7 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
   y siempre antes de la entrega del hito del proyecto.
 	* Cuidad las entregas y entender los errores que se producen a qué se deben.
 	* Aprovechad las 4 horas de clase/prácticas para llevar a cabo los objetivos/hitos. Siempre habrá uno, o dos, profesores presentes para ayudaros.
-	
+
 * Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura; si no es posible, asegurarse de que el sistema operativo del ordenador es capaz de manejar, al menos, varias máquinas virtuales Linux a la vez, así como contenedores Docker.
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial gh o extraoficial hub).
@@ -71,7 +71,7 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 * *Práctica*:
   [Guión del primer hito del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura). Plazo
   para la entrega de este primer hito: **11:30 del 6 de octubre de 2020**..
-  
+
 ## Material adicional
 
 Podéis añadir trucos o enlaces a material adicional en esta zona,

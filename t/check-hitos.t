@@ -13,6 +13,7 @@ use File::Slurper qw(read_text);
 use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
+use YAML qw(LoadFile);
 
 use v5.14; # For say
 
@@ -51,41 +52,51 @@ SKIP: {
   my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
   ok( $este_fichero, "$user ha enviado fichero de objetivos con el nombre correcto" ); # Test 4
 
+  # Comprobación de lo diferentes que son los ficheros de objetivos (o no)
+  for my $f (@ficheros_objetivos) {
+    if ($f ne $este_fichero ) {
+      my $diff = `diff $f $este_fichero`;
+      diag "✗ Si tus objetivos cumplidos son diferentes, el fichero también debería serlo" 
+        unless isnt $diff, "", "El fichero de objetivos enviado no es idéntico a $f";
+    }
+  }
+
   # Comprobar que los ha actualizado
   my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
   is( $objetivos_actualizados, "",
        "Fichero de objetivos $este_fichero está actualizado")
     or skip "Fichero de objetivos actualizados hace $objetivos_actualizados";
 
-  # Se crea el repo y se hacen cosas.
-  my $repo_dir;
-  if ($mi_repo) {
-    $repo_dir = "/tmp/$user-$name";
-    if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
-      mkdir($repo_dir);
-      `git clone $url_repo $repo_dir`;
-    }
-  } else {
-    $repo_dir = ".";
-  }
-  my $student_repo =  Git->repository ( Directory => $repo_dir );
+  my $repo_dir = create_student_repo_dir( $url_repo, $mi_repo, $user, $name );
+  my $student_repo = Git->repository ( Directory => $repo_dir );
+  
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
 
+  doing("hito 0");
   for my $f (qw( README\.(org|md|rst) \.gitignore LICENSE )) { # Tests 5-7
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
   }
 
-  doing("hito 1");
+
   # Get the extension used for the README
   my ($readme_file) = grep( /^README/, @repo_files );
   my $README =  read_text( "$repo_dir/$readme_file");
   unlike( $README, qr/[hH]ito/, "El README no debe incluir la palabra hito");
 
-  my $with_pip = grep(/req\w+\.txt/, @repo_files);
-  if ($with_pip) {
-     ok( grep( /requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
+  my $iv; # Fichero de configuración
+  if ( $this_hito >= 1 ) {
+    doing("hito 1");
+    $iv = LoadFile("$repo_dir/iv.yaml");
+    ok( $iv, "Fichero de configuración para corrección iv.yaml cargado correctamente" );
+    my $with_pip = grep(/req\w+\.txt/, @repo_files);
+    if ($with_pip) {
+      ok( grep( /requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
+    }
+
+    file_present( $iv->{'entidad'}, \@repo_files, " de implementación de una entidad" );
   }
+  
   if ( $this_hito > 1 ) { # Comprobar milestones y eso
     doing("hito 2");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
@@ -191,10 +202,38 @@ SKIP: {
 done_testing();
 
 # Subs -------------------------------------------------------------
+
+# Crea el repo del estudiante
+sub create_student_repo_dir {
+  my ($url_repo, $mi_repo, $user, $name) = @_;
+  my $repo_dir;
+  if ($mi_repo) {
+    $repo_dir = "/tmp/$user-$name";
+    if (!(-e $repo_dir) or  !(-d $repo_dir) ) {
+      mkdir($repo_dir);
+      `git clone $url_repo $repo_dir`;
+    }
+  } else {
+    $repo_dir = ".";
+  }
+  return $repo_dir;
+}
+
+
 # Antes de cada hito
 sub doing {
   my $what = shift;
   diag "\n\t✔ Comprobando $what\n";
+}
+
+# Está este fichero en el repo?
+sub file_present {
+  my ($file, $ls_files_ref, $name ) = @_;
+  my @files = (ref($file) eq 'ARRAY')?@$file:($file);
+  for my $file (@files ) {
+    ok( grep( /$file/, @$ls_files_ref ), "Fichero $name → $file presente" );
+  }
+
 }
 
 sub check_ip {

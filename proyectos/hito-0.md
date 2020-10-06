@@ -33,7 +33,7 @@
 | NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | v0.0.1 |
 | PALOMINO SANCHEZ, GUILLERMO|[NumisApp](https://github.com/Riikari/NumisApp) | v.0.0.1 |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v0.0.2  *REENVÍO* |
-| PEREZ MENDEZ, PABLO| | |
+| PEREZ MENDEZ, PABLO| [Apus](https://github.com/Megatorpon/Apus) | v.0.0.1 |
 | PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats.git) | v0.0.2 |
 | PRIETO INFANTE, JAVIER| [PeluqueriaUnisex](https://github.com/JaviPrieto/PeluqueriaUnisex) | v0.0.1 |
 | REVELLES PEREZ, ANTONIO JOSE| [ListerYourMood](https://github.com/AntonioRev/ListenYourMood) | v0.0.1 |

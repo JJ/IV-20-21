@@ -20,4 +20,4 @@
 - [x] Comprender el por qué del procesamiento virtual.
 - [x] Recordar conceptos sobre virtualización y metodos que existen.
 - [x] [Ejercicios de autoevaluación](https://github.com/angelaig-ugr/IV-autoevaluacion/blob/master/sesiones/semana1.md).
-- [x] Documentarme y estudiar sobre el lenguaje Javascript . 
+- [x] Documentarme y estudiar sobre el lenguaje Javascript. 

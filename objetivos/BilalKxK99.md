@@ -29,3 +29,18 @@
 - [x] Entender los niveles de virtualización: *Infraestructure, Platform y Software as a service*
 - [x] Comprender la diferencia entre virtualizar a nivel de sistema operativo y a nivel de aplicación, así como otros niveles existentes
 - [x] Entender mejos los comandos de *git*, así como el tema del *pull request*
+
+
+## Tercera semana
+
+- [x] Comprender la importancia de la metodología TDD en DevOps
+- [x] Comprender como organizar tu código de acuerdo con las historias de usuario de tu API
+- [x] Entender la diferencia entre test unitarios y test significativos
+- [x] Mejorar mis conocimientos del lenguaje Ruby 
+- [x] Aprender a instalar un lenguaje utilizando un gestor de versiones
+- [x] Entender el concepto de las gemas de Ruby
+- [x] Entender el concepto de dependencias de Ruby
+- [x] Comprender la utilidad de manejar las dependencias de Ruby con *bundler*
+- [x] Aprender a instalar gemas de Ruby, como por ejemplo, *RSpec*
+- [x] Entender cómo funciona *Rakefile*, el archivo de ejecución de tareas de Ruby
+- [x] Adquirir técnicas para testear excepciones en Ruby

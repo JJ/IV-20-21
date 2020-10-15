@@ -24,4 +24,4 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar el gestor de versiones de JavaScript y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
-- [x] Llevar a cabo tests unitarios.
+- [x] Llevar a cabo tests unitarios. 

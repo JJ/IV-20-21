@@ -20,3 +20,11 @@
 - [X] Comprender los distintos tipos de virtualización existentes.
 - [X] Comprender el concepto de X as a service (PaaS, SaaS,IaaS... ) y el uso que pueden desempeñar cada uno.
 - [X] Entender lo implicado por el desarrollo que se desarrollará en la asignatura.
+
+## Tercera Semana
+
+- [X] Entender como los test del software engajan dentro de la infraestructura virtual.
+- [X] Usar gestores de versiones y entender su utilidad.
+- [X] Entender para que sirven los ficheros de requisitos y dependencias, como package.json, y su utilidad.
+- [X] Aprender a utilizar node.js.
+- [X] Comprender el papel de las herramientas de automatización.

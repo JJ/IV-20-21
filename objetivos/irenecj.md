@@ -19,3 +19,9 @@
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 - [x] Entregar el hito en la fecha fijada: martes 6 de octubre, 11:30 de la mañana.
+
+## Tercera semana
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar el gestor de versiones de JavaScript y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Llevar a cabo tests unitarios.

@@ -18,3 +18,11 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
+
+## Tercera semana
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad. Para esto he profundizado con `npm`, ya que es el que voy a utilizar en mi proyecto.
+
+- [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales. En mi proyecto utilizaré ficheros tipo `JSON`.

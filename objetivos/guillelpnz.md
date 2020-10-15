@@ -23,3 +23,19 @@
 - [x] Comprender el significado del DevOps así como su importancia actual.
 - [x] Conocer más aspectos sobre el desarrollo basado en objetivos.
 - [x] Aprender la utilidad de los issues de GitHub para nuestro proyecto
+
+## Tercera semana 6 de octubre
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+
+- [ ] Hacer los ejercicios de autoevaluación
+
+- [x] Entender cómo funcionan las dependencias dentro del lenguaje Go
+
+- [x] Aprender más sobre sintaxis de Go
+
+- [x] Entender la utilidad de los test unitarios

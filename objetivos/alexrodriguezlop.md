@@ -33,3 +33,17 @@
 - [x] 7. Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 
 - [x] 8. Comprender el papel de las build tools o herramientas de automatización.
+
+## Semana 4 (13 de Octubre)
+- [x] 1. Entender Docker y el ecosistema de contenedores.
+
+- [x] 2. Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] 3. Entender los errores en el hito 1.
+
+- [x] 4. Evitar las faltas de ortografía en el README. 
+
+- [x] 5. Configuración de shell y línea de órdenes para que se pueda ver claramente cómo está el desarrollo en un repositorio.
+
+- [x] 6. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+

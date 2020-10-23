@@ -47,4 +47,3 @@
 
 - [x] 6. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-- [x] 7. [Ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana4)

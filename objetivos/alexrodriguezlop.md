@@ -46,5 +46,3 @@
 - [x] 5. Configuración de shell y línea de órdenes para que se pueda ver claramente cómo está el desarrollo en un repositorio.
 
 - [x] 6. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
-
-- [x] 7. [Ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana4)

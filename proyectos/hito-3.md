@@ -38,7 +38,7 @@
 | PRIETO INFANTE, JAVIER| | |
 | REVELLES PEREZ, ANTONIO JOSE|[ListenYourMood](https://github.com/AntonioRev/ListenYourMood) | v1.2.1 |
 | RIVERA PEÑA, JUAN ALBERTO| | |
-| RODRIGUEZ LOPEZ, ALEJANDRO| | |
+| RODRIGUEZ LOPEZ, ALEJANDRO|[HDN.PG](https://github.com/alexrodriguezlop/HDN.PG)  | v3.0.0 |
 | ROMERO ORTEGA, JOSE MANUEL| | |
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |
 | RUIZ FERNANDEZ, TOMAS| | |

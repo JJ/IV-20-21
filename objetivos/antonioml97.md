@@ -15,7 +15,7 @@
 - [X] Leer acerca de los niveles de virtualización y sus denominaciones genéricas.
 - [X] Comprender las implicaciones que tiene el diseño del proyecto de la asignatura.
 - [X] Comenzar a comprender los conceptos de X as a service.
-- [X] Realizar los [ejercicios de autoevaluación del Tema 1](https://github.com/antonioml97/IV-Ejercicios).
+- [X] Realizar los [ejercicios de la autoevaluación del Tema 1](https://github.com/antonioml97/IV-Ejercicios).
 
 ## Tercera semana
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
@@ -24,8 +24,9 @@
 - [x] Aplicar un framework de test unitario para node y entender su funcionamiento 
 
 ## Cuarta semana
-- [x] [Ver video sobre el tema QA:](https://youtu.be/wD_og-3KOsE)
 - [x] Leer algo sobre orquestación de contenedores
+- [x] Ver video acerca de QA
 - [x] Investigar el billing de registros de contenedores de pago
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
 - [x] Investigar y crear cuenta en [DockerHub](https://github.com/antonioml97/BuscadorPartidos/blob/master/docs/DockerHub.md).
+- [x] Realizar los [ejercicios de la autoevaluación del tema de contendores](https://github.com/antonioml97/IV-Ejercicios).

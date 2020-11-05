@@ -39,3 +39,11 @@
 - [x] Conocer [Docker Hub](https://hub.docker.com/r/mariasanzs/makeupiv) como herramienta y aprender su funcionamiento
 - [x] Aprender a usar GitHub Container Registry
 - [x] Entregar el proyecto en la fecha (26/10).
+
+## Semana del 2/11/2020
+- [x] [Realizar los ejercicios 9 y 10 propuestos](https://github.com/mariasanzs/EjerciciosIV).
+- [x] Entender el concepto de integración continua y su utilidad en nuestro proyecto.
+- [x] Avanzar los test de un compañero para que tengan mayor cobertura y hacerle un PR
+- [x] Aprender como configurar Travis como herramienta de integración continua.
+- [x] Aprender como configurar Shippable como herramienta de CI.
+- [x] Entregar el proyecto en la fecha (6/11).

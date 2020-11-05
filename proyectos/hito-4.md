@@ -51,6 +51,6 @@
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |
-| VELA PELEGRINA, SERGIO| | |
+| VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.10 |
 | VICTORIA MOHAMED, JAVIER| | |
 | YE , BATE| | |

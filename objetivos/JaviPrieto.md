@@ -41,7 +41,7 @@
 - [x] Entender errores comunes en la construcción de una imagen Docker.
 - [x] Darse de alta en Travis.
 - [x] Darse de alta en otros servicios de integración/despliegue continuo.
-- [x] Enlace a los ejercicios del Tema1. [IV-Ejercicios](https://github.com/JaviPrieto/IV-Ejercicios)
+- [x] Enlace a los ejercicios del Tema1. [IV-Ejercicios](https://github.com/JaviPrieto/IV-Ejercicios) 
 
 
 

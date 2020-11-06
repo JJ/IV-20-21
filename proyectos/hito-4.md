@@ -10,7 +10,7 @@
 | CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | v1.4.1 |
 | DEL POZO MORENO, RAUL| | |
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
-| GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api) | v1.0.1 |
+| GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api) | v1.0.2 |
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v5.0.0 |
 | GARCIA CASTILLO, ANTONIO| | |
 | GARCIA COLLADO, JOSE ALBERTO| | |

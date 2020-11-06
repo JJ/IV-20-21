@@ -46,4 +46,3 @@
 - [x] He aprendido a utilizar imagenes de Docker junto con sistemas de integración continua
 - [x] He comprendido la utilidad de los sistemas de integración continua
 - [x] He aprendido a añadir badges al readme de github 
-

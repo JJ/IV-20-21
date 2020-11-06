@@ -36,3 +36,13 @@
 - [x] He aprendido a crear mis propias imágenes
 - [x] He aprendido a enlazar paquetes en un repositorio de github [que puede verse AQUÍ](https://github.com/users/ByteVictor/packages/container/package/dockertests)
 - [x] He aprendido a ejecutar tests dentro de un Docker
+
+## Quinta semana
+
+- [x] He realizado los ejericicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/hito4/README.md
+- [x] He aprendido qué son los sistemas de integración continua
+- [x] He aprendido a configurar y utilizar Travis como sistema de integración continua
+- [x] He aprendido a configurar y utilizar CicleCI como sistema de integración continua
+- [x] He aprendido a utilizar imagenes de Docker junto con sistemas de integración continua
+- [x] He comprendido la utilidad de los sistemas de integración continua
+- [x] He aprendido a añadir badges al readme de github

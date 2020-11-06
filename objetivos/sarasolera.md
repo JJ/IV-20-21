@@ -27,3 +27,8 @@
 - [x] He entendido cómo funciona docker, e instalé podman, una alternativa.
 - [x] He investigado sobre [https://hub.docker.com/](dockerHub), he aprendido qué es, y me he hecho una cuenta.
 - [x] He comprendido qué es un Dockerfile y cómo realizarlo con buenas prácticas.
+
+## Quinta semana 27 Octubre
+- [x] He entendido el concepto de integración continua, y su importancia.
+- [x] He conocido travis como sistema de CI, y como es su fichero de configuración.
+- [x] Tras esto he realizado los [ejercicios propuestos.](https://github.com/sarasolera/ejerciciosIV/blob/main/tema_4.md)

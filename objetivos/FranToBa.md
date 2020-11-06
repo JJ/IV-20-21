@@ -18,7 +18,6 @@
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 - [x] [Ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV)
 
-
 ## Tercera semana
 
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual. 
@@ -32,8 +31,14 @@
 - [x] Creación de cuenta en [DockerHub](https://hub.docker.com/) y creación del archivo dockerfile.
 - [x] Ejercicios autoevaluación [semana 4](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s4.md)
 
+## Sexta semana
 
-    
 
-    
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Haber entregado el hito 3, o estar a punto de hacerlo.
+- [x] Darse de alta en Travis y otros servicios de integración/despliegue continuo.
+- [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s6.md) de la semana correspondiente.
+
 

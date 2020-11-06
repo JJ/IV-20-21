@@ -30,8 +30,17 @@
 - [X] Comprender el papel de las herramientas de automatización.
 
 ## Cuarta Semana
-- [X] Saber como usar contenedores para testear nuestra app, en mi caso
-- [X] Saber contruir dockerfiles para configurar contenedores, en este caso y para mi proyecto en [mi repositorio](https://github.com/XDavid1999/PacketService)
-- [X] Aprender a usar DockerHub
-- [X] Aprender a usar GitHub Container Registry
-- [X] Comparar tieempos de varias imágenes para saber cual es más conveniente
+
+- [X] Saber como usar contenedores para testear nuestra app, en mi caso.
+- [X] Saber contruir dockerfiles para configurar contenedores, en este caso y para mi proyecto en [mi repositorio](https://github.com/XDavid1999/PacketService).
+- [X] Aprender a usar DockerHub.
+- [X] Aprender a usar GitHub Container Registry.
+- [X] Comparar tieempos de varias imágenes para saber cual es más conveniente.
+
+## Quinta Semana
+
+- [X] Aprender a configurar Travis para que nos pase los test.
+- [X] Aprender a configurar codefresh para integración continua.
+- [X] Usar nuestros contenedores y taskrunners dentro de nuestros CI.
+- [X] Documentar todo el proceso.
+- [X] Realizar los [ejercicios 9,10 y 1](https://github.com/XDavid1999/Exercises/tree/master/Ejercicios).

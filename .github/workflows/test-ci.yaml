@@ -5,7 +5,7 @@ on:
       - 'proyectos/hito-[4567].md'
 
 jobs:
-  user_story_check:
+  CI_status_check:
     runs-on: ubuntu-latest
     steps:
       - name: Extrae URL del repositorio
@@ -13,7 +13,7 @@ jobs:
         with:
           github-token: ${{github.token}}
           filesChanged: 1
-      - name: Busca historias de usuario
+      - name: Comprueba los checks del repositorio
         uses: actions/github-script@v3
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
@@ -26,8 +26,31 @@ jobs:
                 const user = ghRepoMatch[1] // segundo resultado
                 const repo = ghRepoMatch[2] // tercer resultado
                 console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
-                const non_paginated_checks = await github.checks.endpoint.merge( { owner: user, repo: repo, ref: 'HEAD' })
-                const checks = await github.paginate( non_paginated_checks )
-                console.log( checks )
+                const checks_before_pag =
+                    await github.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: 'HEAD',
+                          status: 'completed'
+                        })
+                const checks = await github.paginate( checks_before_pag)
+                console.log( "✅ Hay " + checks.length + " sistemas de CI configurados")
+
+                if ( checks.length < 1 ) {
+                    core.setFailed("❌ No hay suficientes sistemas de CI configurados")
+                }
+                const green_checks = checks.filter( check => check.conclusion === "success" )
+                if ( !green_checks.length ) {
+                    core.setFailed("❌ No hay al menos un CI que esté en verde")
+                } else {
+                    console.log( "✅ Hay " + green_checks.length + " que pasa(n) los tests correctamente" )
+                }
+                const travis_checks_green = green_checks.filter( check => check.app.slug === "travis-ci" )
+
+                if ( travis_checks_green.length == 0 ) {
+                    core.setFailed("❌ Travis no está o está fallando en este momento")
+                } else {
+                    console.log( "✅ Entre ellos está Travis" )
+                }
             }
 

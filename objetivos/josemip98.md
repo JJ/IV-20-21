@@ -36,4 +36,11 @@
 - [x] Entender las pruebas de software como concepto de infraestructura virtual.
 - [x] Aprender a construir archivos Dockerfile correctamente.
 - [x] Aprender a utilizar Docker Hub y a configurarlo para que se actualize cuando modifiquemos nuestro repositorio de GitHub.
-- [ ] Realizar ejercicios [autoevaluación](https://github.com/josemip98/EjerciciosIV)
+
+## Quinta semana
+- [x] Entender el concepto de integración continua y aprender a utilizarla en una aplicación.
+- [x] Configurar sistemas de integración continua como Travis, Shippable o Circle CI.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Darse de alta en Travis y otros servicios de integración/despliegue continuo.
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] Realizados los [ejercicios](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%202%20-%20TDD#ejercicio-9) 9 y 10 del tema sobre TDD. 

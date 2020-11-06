@@ -27,7 +27,7 @@
 - [x] 7. Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
 - [x] 8. Comprender el papel de las build tools o herramientas de automatización.
 
-## Semana 4 (13 de Octubre)
+## Semana 4 y 5 (13 de Octubre)
 - [x] 1. Entender Docker y el ecosistema de contenedores.
 - [x] 2. Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] 3. Entender los errores en el hito 1.
@@ -35,3 +35,14 @@
 - [x] 5. Configuración de shell y línea de órdenes para que se pueda ver claramente cómo está el desarrollo en un repositorio.
 - [x] 6. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [x] 7. [Ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana4)
+
+
+## Semana 6 (27 de Octubre)
+- [x] 1. Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] 2. Comenzar con la configuración de los sistemas de integración continua.
+- [x] 3. Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] 4. Haber entregado el hito 3.
+- [x] 5. Entender errores comunes en la construcción de una imagen Docker.
+- [x] 6. Darse de alta en Travis y otros servicios de integración/despliegue continuo.
+- [x] 7. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+- [x] 8. Hacer los  [Ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana6) 8 y 9.

@@ -108,27 +108,14 @@ SKIP: {
   if ( $this_hito >= 3 ) {
     doing("hito 3");
     file_present( "Dockerfile", \@repo_files, " de contenedores" );
-    ok( $iv->{'lenguaje'}, "Declaración de lenguaje correcta" );
   }
 
   if ( $this_hito >= 4 ) { # Comprobar milestones y eso
-    doing("hito 2");
+    doing("hito 4");
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
-    my $travis_domain = travis_domain( $README, $user, $name );
-    ok( $travis_domain =~ /(com|org)/ , "Está presente el badge de Travis con enlace al repo correcto");
-    if ( $travis_domain =~ /(com|org)/ ) {
-      is( travis_status($README), 'Passing', "Los tests deben pasar en Travis");
-    }
   }
 
-  if ( $this_hito > 3 ) { # Usando la buildtool para desplegar microservicio
-    doing("hito 3");
-    my ($buildtool) = ($README =~ m{(?:buildtool:)\s+(\S+)\s+});
-    ok( $buildtool, "No he podido encontrar el fichero de build" );
-    isnt( grep( /$buildtool/, @repo_files), 0, "$buildtool presente" );
-  }
-
-  if ( $this_hito > 3 ) { # Despliegue en algún lado
+  if ( $this_hito > 4 ) { # Despliegue en algún lado
     doing("hito 4");
     my ($deployment_url) = ($README =~ m{(?:[Dd]espliegue|[Dd]eployment):\s+(https?://\S+)\b});
     if ( $deployment_url ) {

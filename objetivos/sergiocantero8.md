@@ -34,3 +34,10 @@
 - [X] Aprender a crear una imagen de Docker
 - [X] Aprender a ejecutar los tests en un contenedor de Docker
 - [X] Entender como configurar correctamente el Dockerfile
+
+## Quinta semana
+- [X] Haber entregado el hito 3 y comprender los fallos cometidos
+- [X] Comprender qué es la integración continua y su utilidad en un proyecto real
+- [X] Darse de alta en Travis o otro servicio de integración continua
+- [X] Entender qué es Travis y aprender a utilizarlo correctamente
+- [X] Realizar los [ejercicios propuestos](https://github.com/sergiocantero8/IV-Autoevaluacion/tree/main/TEMA%204) del tema 4

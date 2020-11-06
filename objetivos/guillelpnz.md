@@ -58,3 +58,17 @@ sobre todo el parámetro -v
 - [x] Entender que hay que añadir un link a GitHub en los objetivos
 
 - [x] Entender que solo se puede cambiar un fichero para pasar los tests
+
+## Quinta semana
+
+- [x] Entender el concepto de integración continua
+
+- [x] Aprender a configurar y usar TravisCI
+
+- [x] Aprender a configurar Shippable
+
+- [x] Realizar el hito 4 documentando lo anterior
+
+- [x] Hacer un PR a un compañero para avanzar su cobertura de tests
+
+- [x] [Hacer los ejercicios 1, 9 y 10](https://github.com/guillelpnz/Ejercicios/blob/master/TDD.md)

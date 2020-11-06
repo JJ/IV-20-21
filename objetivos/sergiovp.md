@@ -43,3 +43,13 @@
 - [x] Instalar diferentes utilidades para trabajar con Docker. *Como por ejemplo, docker-compose, para "orquestar" diversos servicios*.
 - [x] Ver diferentes ejemplos de contenedores, con sus casos de usos diferrentes. *Para este hito he visto muchos ejemplos de contenedores que usan diversas imágenes*.
 - [x] Avance del proyecto. Se puede comprobar [aquí](https://github.com/sergiovp/IV-OrganizeAndGo).
+
+## Quinta semana
+
+- [x] Hito 3 entregado.
+- [x] Comprender qué es la integración continua y su utilidad.
+- [x] Darse de alta en Travis y otros servicios de integración/despliegue continuo.
+- [x] Completados los ejercicios 9 y 10 del tema sobre TDD. *Se pueden comprobar en el [repositorio de ejercicios](https://github.com/sergiovp/IV-Ejercicios/blob/main/Sesiones/sesión_hito_4.md)*. 
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. Esta parte está comentada en la semana anterior.
+- [x] Comienzo del hito 4.
+- [x] Estudiar distintas posibilidades sobre sistemas de integración continua (travis, jenkins, etc).

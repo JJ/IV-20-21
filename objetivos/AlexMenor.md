@@ -35,3 +35,13 @@
 
 - [x] Darse de alta en algún servicio de integración continua que no haya probado: https://github.com/AlexMenor/autoevaluacion-iv/blob/master/integracion-continua/circleci.png
 - [x] Configurar algún servicio de integración continua que no haya probado: https://github.com/AlexMenor/autoevaluacion-iv/blob/master/integracion-continua/circleci-config.png
+
+# Sexta semana
+
+- [x] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [x] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube.
+      He seguido la (documentación de etcd)[https://etcd.io/docs/v3.4.0/dev-guide/local_cluster/] para (probarlo en local.)[https://github.com/AlexMenor/autoevaluacion-iv/blob/master/microservicios/etcd.png]
+- [x] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+      Estoy familiarizado con la inyección de dependencias, no tanto con como se implementa en python, por eso me he leído (esta pregunta)[https://stackoverflow.com/questions/2461702/why-is-ioc-di-not-common-in-python] de Stack Overflow.
+- [x] Entender la importancia de los sistemas de log.
+      Investigar el estado del arte, en este caso he leído sobre (ELK Stack.)[https://www.elastic.co/es/what-is/elk-stack]

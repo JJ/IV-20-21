@@ -26,3 +26,18 @@
 
 - [x] Entender el funcionamiento de un contenedor, en particular Docker
 - [x] Comprender como encajan las pruebas sobre el software dentro de una infraestructura virtual.
+
+## Objetivos semana 5
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Optimizar aplicaciones sobre plataformas virtuales.
+
+## Objetivos semana 6
+
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [Enlace a los ejercicios del Tema 2](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Tema%202.md)
+- [Enlace a los ejercicios del Tema 3](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Tema%203.md)

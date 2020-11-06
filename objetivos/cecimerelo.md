@@ -47,7 +47,8 @@
 
 ## Semana 6
 
-- [ ] Entender el concepto de integración continua y a usarla en una aplicación.
-- [ ] Comenzar con la configuración de los sistemas de integración continua.
-- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
-- [ ] Entregar [Hito 4](https://github.com/cecimerelo/VizYourData/milestone/4)
+- [x] [Hacer ejercicios 9 y 10 del tema sobre TDD](https://github.com/cecimerelo/EjerciciosIV).
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Entregar [Hito 4](https://github.com/cecimerelo/VizYourData/milestone/4)

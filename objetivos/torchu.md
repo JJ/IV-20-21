@@ -1,4 +1,5 @@
 # Objetivos de Víctor Cabrita
+
 ## Primera semana
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -15,11 +16,11 @@
 - [x] Comprender los niveles de virtualización y sus denominaciones genéricas.
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
-Para comprobar la realización de los objetivos, visite [este enlace](https://github.com/Torchu/IV-Ejercicios-y-Objetivos/blob/main/Objetivos/Semana02.md).
+      Para comprobar la realización de los objetivos, visite [este enlace](https://github.com/Torchu/IV-Ejercicios-y-Objetivos/blob/main/Objetivos/Semana02.md).
 
 ## Tercera semana
 
-- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual. 
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Entender el funcionamiento de node.js y express, ya que me servirán durante el desarrollo del proyecto.
@@ -30,3 +31,10 @@ Para comprobar la realización de los objetivos, visite [este enlace](https://gi
 - [x] Comprender como funciona [Docker](https://www.docker.com/).
 - [x] Entender cómo funciona [DockerHub](https://hub.docker.com/), comprender su utilidad y crearme una [cuenta](https://hub.docker.com/u/torchu).
 - [x] Aprender las buenas prácticas a la hora de crear un [Dockerfile](https://github.com/Torchu/GymBot/blob/master/Dockerfile).
+
+## Sexta y séptima semana
+
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua. [Travis](https://github.com/torchu/GymBot/blob/master/docs/travis.md) y [Shippable](https://github.com/torchu/GymBot/blob/master/docs/shippable.md).
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/TDD.md) 9 y 10 del tema sobre TDD.

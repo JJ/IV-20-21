@@ -55,3 +55,18 @@
 - [x] Aprender a subir nuestro contenedor a Docker Hub
 - [x] Entender como configurar nuestro repositorio en Docker Hub para que se actualice conforme lo vamos modificando en GitHUb
 - [x] Aprender a utilizar GitHUb Container Registry
+
+
+## Quinta semana
+
+- [x] Realizar el [ejercicio 9](https://github.com/biilal1999/Ejercicios/blob/master/tema4/ejercicio9.md) del tema *Desarrollo basado en pruebas*
+- [x] Realizar el [ejercicio 10](https://github.com/biilal1999/Ejercicios/blob/master/tema4/ejercicio10.md) del tema *Desarrollo basado en pruebas*
+- [x] Entender el concepto de **integración continua**
+- [x] Comprender la utilidad de la **integración continua** en el desarrollo de *DevOps*
+- [x] Aprender a enlazar y sincronizar distintos sistemas de *CI* con *GitHub**
+- [x] Aprender a configurar ficheros de integración para **Travis**, **GitHub Actions** y **Shippable**
+- [x] Entender como poder utilizar correctamente nuestro gestor de tareas en los ficheros de integración continua
+- [x] Aprender a aprovechar nuestro *Docker* en los ficheros de integración continua
+- [x] Aprender a crear **secrets** en GitHub
+- [x] Comprender qué son, su utilidad y cómo usar los **tests de cobertura**
+- [x] Aprender un poco sobre testear código en **Go**

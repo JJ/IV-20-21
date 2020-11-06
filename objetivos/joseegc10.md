@@ -33,3 +33,10 @@
 - [X] Entender como encajan las pruebas software dentro del concepto de infraestructura virtual.
 - [X] Crear cuenta en Docker Hub y aprender su funcionamiento.
 - [X] Investigar sobre la creación de ficheros Dockerfile.
+
+## Quinta semana
+
+- [X] Investigar sobre la integración continua y su uso en las aplicaciones.
+- [X] Aprender como se configuran los sistemas de integración continua.
+- [X] Darme de alta en algún servicio de integración continua y activar el repositorio en el que la vayamos a aplicar. Este procedimiento se puede ver en el siguiente [enlace](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20CI/ejercicio9.md).
+- [X] Configurar integración continua para nuestra aplicación usando Travis. Esto se puede ver [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20CI/ejercicio10.md).

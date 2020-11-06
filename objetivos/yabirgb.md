@@ -35,3 +35,10 @@
 - [x] Aprender las cosas básicas de `dockerhub` y `github images`. Configurar `tokens` de acceso.
 - [ ] Aprender a cachear pasos de la construcción de un contenedor de `docker` en `github actions`. 
 - [ ] Ver los ejemplos que comentó en tutoría el profesor.
+
+## Quinta semana y Sexta semana (27 de octubre y 2 de Noviembre)
+
+- [x] Realizar ejercicios de [autoevaluación](https://github.com/yabirgb/IV-autoevaluacion/tree/master/CI).
+- [x] Aprender como utilizar la cache de travis para `RUST`.
+- [x] Investigar sobre los orbes de `circle-ci`.
+- [x] Continuar con el código del proyecto. 

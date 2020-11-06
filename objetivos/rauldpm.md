@@ -30,3 +30,15 @@
 - [x] Comprender como encajan las pruebas de software dentro del concepto de infraestructura virtual.
 - [x] Entender Dockerfile y su necesidad de uso.
 - [x] Investigar sobre Docker Hub.
+
+## Semana 5
+
+- [x] Documentar y mantener una plataforma virtual
+
+## Semana 6
+
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] [Ejercicios realizados del tema 2 - Desarrollo basado en pruebas](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema2.md).
+- [x] [Ejercicios realizados del tema 3 - Usando contenedores](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema3.md).

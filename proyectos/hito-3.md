@@ -9,7 +9,7 @@
 | COCA CRUZ, SIXTO| | |
 | CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | 1.3.4 **reenvío** |
 | DEL POZO MORENO, RAUL|[InmobilIV](https://github.com/rauldpm/InmobilIV)| v3.0.12|
-| FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
+| FERNANDEZ TORRALBO, MIGUEL ANGEL|[MyOutlet](https://github.com/miguelfdez99/MyOutlet) | v.3.0.0 |
 | GAMIZ DELGADO, ANTONIO |[Manga API](https://github.com/antoniogamiz/manga-api) | v2.0.0 *Reenvio* |
 | GARCIA BENCHAKHTIR, YABIR| [bukhgalter](https://github.com/yabirgb/bukhgalter) | v4.0.0|
 | GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v2.0 **Reenvío** |
@@ -34,7 +34,7 @@
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v2.1.2 |
 | PEREZ MENDEZ, PABLO| | |
-| PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats) | v1.3.1 |
+| PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats) | v1.3.2 **Reenvío** |
 | PRIETO INFANTE, JAVIER| | |
 | REVELLES PEREZ, ANTONIO JOSE|[ListenYourMood](https://github.com/AntonioRev/ListenYourMood) | v1.2.2 **Reenvio** |
 | RIVERA PEÑA, JUAN ALBERTO| | |
@@ -51,6 +51,6 @@
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |
-| VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.9 **Reenvío** |
+| VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.9 **Reenvío2** |
 | VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.3.5 **Reenvío** |
 | YE , BATE| [DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v2.0.3 |

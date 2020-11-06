@@ -36,9 +36,17 @@
 - [x] Comprender los hooks de git.
 - [x] Ver diferentes ejemplos de contenedores, con sus casos de uso diferentes. De hecho he usado varios en el Hito 3. Ver [aquí](https://github.com/ManuelJNunez/footStats/blob/master/docs/docker.md).
 - [x] Entender el concepto de integración continua y a usarla en una aplicación. Lo entendí en el [curso sobre TDD](https://jj.github.io/curso-tdd/temas/CI.html).
-- [ ] Comenzar con la configuración de los sitemas de integración continua.
+- [x] Comenzar con la configuración de los sitemas de integración continua.
 - [x] Haber entregado el hito 3.
 - [x] Entender errores comunes en la construcción de una imagen Docker.
 - [x] Darse de alta en Travis.
-- [ ] Darse de alta en otros servicios de integración/despliegue continuo.
+- [x] Darse de alta en otros servicios de integración/despliegue continuo (Shippable).
 - [x] Entender el formato [YAML](https://rollout.io/blog/yaml-tutorial-everything-you-need-get-started/).
+
+## Séptima semana
+
+- [x] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [x] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube.
+- [x] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+- [x] Entender la importancia de los sistemas de log.
+- [x] Finalizar los ejercicios de autoevaluación del tema 2. Se encuentran en [este repositorio](https://github.com/ManuelJNunez/autoevaluacionIV).

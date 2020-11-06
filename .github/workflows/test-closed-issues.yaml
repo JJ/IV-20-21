@@ -39,7 +39,7 @@ jobs:
                                   nodes {
                                     ... on ClosedEvent {
                                       closer {
-                                        __typename 
+                                        __typename
                                       }
                                     }
                                   }

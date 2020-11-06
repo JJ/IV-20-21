@@ -57,3 +57,4 @@
 - [X] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube como GitHub.
 - [X] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
 - [X] Entender la importancia de los sistemas de log.
+- [X] Crear el (repositorio para los ejercicios de la asignatura)[https://github.com/antoniorev/EjerciciosIV/tree/main/Hito4]

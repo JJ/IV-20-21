@@ -103,4 +103,28 @@
 
 - [X] Documentar todo el proceso seguido para cumplir los objetivos.
 
-- [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10]() del tema de TDD.
+- [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10](
+
+## Sexta semana
+
+- [X] Entender el concepto de integración continua y usarla en una aplicación.
+
+- [X] Comenzar con la configuración de los sistemas de integración continua.
+
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [X] Haber realizado la entrega del hito 3.
+
+- [X] Entender errores comunes en la construcción de una imagen Docker.
+
+- [X] Darme de alta en Travis y otros servicios de integración o despliegue continuo. En mi caso he elegido Shippable.
+
+- [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
+
+- [X] Llevar a cabo la configuración de Travis y Shippable y hacer que ambos ejecuten lso tests correctamente siempre que se actualice el repositorio.
+
+- [X] Uso del contenedor de Docker y el task runner dentro de los sistemas de CI.
+
+- [X] Documentar todo el proceso seguido para cumplir los objetivos.
+
+- [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%2010.md) del tema de TDD.) del tema de TDD.

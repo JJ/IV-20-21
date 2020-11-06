@@ -37,3 +37,14 @@
 - [x] Entender que *commit* también se usa con contendores 
 - [x] Entender bien cómo funcionan los *Dockerfiles*, su sintaxis y las *buenas prácticas* del uso de los mismos
 - [x] Probar *Docker Hub* y otros tipos de servicios de despliegue existentes, como *Now* o *Heroku*.
+
+
+---
+
+## Semana 5: 06/11
+- [x] Entender qué es la integración continua -CI- por qué hay que utilizarla, cuándo y cómo
+- [x] Ver las distintas plataformas existentes de integración continua como Travis, CircleCI, Shipabble, etc. y valorar las diferencias entre las mismas
+- [x] Entender los archivos con extensión *.yml* para qué sirven, su sintaxis y qué podemos hacer con ellos
+- [x] Valorar las diferentes imágenes del lenguaje que estamos usando y ver las iferencias en ejecución -y también los errores-
+- [x] Aprender a integrar *contenedores Docker* con sistemas CI
+- [x] Realizar los [ejercicios 9 y 10 del tema 4](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%204%20-%20Integraci%C3%B3n%20Continua/tema4Ejercicios.md)

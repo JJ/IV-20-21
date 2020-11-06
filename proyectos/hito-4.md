@@ -44,7 +44,7 @@
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
 | RUIZ MEDINA, DANIEL| [PAndemiun](https://github.com/DanielRuizMed/PAndemium) | v0.5.0 |
-| SANZ SANCHEZ, MARIA| | |
+| SANZ SANCHEZ, MARIA| [MakeupIV](https://github.com/mariasanzs/makeupIV) | v.4.0.0 |
 | SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | v.4.0.1 |
 | STETSKIY , NIKITA| | |
 | TORRES BAREA, FRANCISCO JAVIER| | |

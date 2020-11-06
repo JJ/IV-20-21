@@ -52,5 +52,5 @@
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |
 | VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.10 |
-| VICTORIA MOHAMED, JAVIER| | |
+| VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.4.0 |
 | YE , BATE|[DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v3.0.0|

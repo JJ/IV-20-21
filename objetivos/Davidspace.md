@@ -96,7 +96,7 @@
 
 - [X] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 
-- [X] Llevar a cabo la configuración de Travis y Shippable y hacer que ambos ejecuten lso tests correctamente siempre que se actualice el repositorio.
+- [X] Llevar a cabo la configuración de Travis y Shippable y hacer que ambos ejecuten los tests correctamente siempre que se actualice el repositorio.
 
 - [X] Uso del contenedor de Docker y el task runner dentro de los sistemas de CI.
 

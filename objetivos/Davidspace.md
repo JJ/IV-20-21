@@ -102,4 +102,4 @@
 
 - [X] Documentar todo el proceso seguido para cumplir los objetivos.
 
-- [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%2010.md) del tema de TDD.) del tema de TDD.
+- [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%2010.md) del [tema de TDD](https://github.com/Davidspace/Ejercicios_IV/tree/main/TDD).

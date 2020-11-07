@@ -3,7 +3,7 @@
 | AZAÑON CANTERO, SERGIO| [reserve-it](https://github.com/sergiocantero8/reserve-it) | v4.0.1 |
 | BELTRAN SANCHEZ, FRANCISCO| [F1 Predictor](https://github.com/currobeltran/F1-Predictor) | v4.0.1 |
 | CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v4.0.1 |
-| CANO JEREZ, IRENE| | |
+| CANO JEREZ, IRENE| [proyectoIdiomas](https://github.com/irenecj/proyecto-idiomas)| v4.0.2 |
 | CHAVES CABALLERO, MARIO| | |
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| [GameStore](https://github.com/biilal1999/GameStore) | v4.0.2 |
 | COCA CRUZ, SIXTO| | |
@@ -15,7 +15,7 @@
 | GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.0.0 |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.4.0 |
 | GARCIA MARTINEZ, DAVID| | |
-| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.4.1 | 
+| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.4.1 |
 | HEREDIA CORTES, DAVID| [PacketService](https://github.com/XDavid1999/PacketService) | v0.4.1 |
 | HERNANDEZ MORENO, DIEGO| | |
 | HIDALGO CARMONA, MANUEL| | |

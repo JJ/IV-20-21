@@ -71,3 +71,19 @@
 - [x] Ver diferentes ejemplos de contenedores, con sus casos de usos diferrentes.
 
 - [x] Enlace a los [ejercicios del tema 3](https://github.com/blancaazz/Ejercicios-IV/tree/main/Tema3)
+
+## Sexta semana
+
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+
+- [x] Haber entregado el [hito3](https://github.com/JJ/IV-20-21/blob/master/proyectos/hito-3.md)
+
+- [x] Entender errores comunes en la construcción de una imagen Docker
+
+- [x] Darse de alta en Travis
+
+- [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales

@@ -7,7 +7,7 @@
 | CHAVES CABALLERO, MARIO| | |
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| [GameStore](https://github.com/biilal1999/GameStore) | v4.0.2 |
 | COCA CRUZ, SIXTO| | |
-| CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | v1.4.1 |
+| CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | v1.4.3 **Reenvío** |
 | DEL POZO MORENO, RAUL| [InmobilIV](https://github.com/rauldpm/InmobilIV)| v4.2.2  **REENVIO** |
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
 | GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api) | v1.0.2 |

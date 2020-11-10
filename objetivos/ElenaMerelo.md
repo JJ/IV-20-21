@@ -31,6 +31,8 @@ Repositorio con los ejercicios de autoevaluación [aquí](https://github.com/Ele
 
 ## Cuarta semana
 
+[Ejercicios de autoevaluación](https://github.com/ElenaMerelo/iv-autoevaluacion#hito-3)
+
 - [X] Ver cómo funciona Docker
 - [X] Instalar Docker
 - [X] Para que se usan los contenedores

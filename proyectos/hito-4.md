@@ -15,7 +15,7 @@
 | GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.0.0 |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.4.1 **Reenvío** |
 | GARCIA MARTINEZ, DAVID| [AroundTheWorld](https://github.com/Davidspace/AroundTheWorld) | v4.0.0|
-| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.4.2 **Reenvío**|
+| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.4.2 **Reenvío**| 
 | HEREDIA CORTES, DAVID| [PacketService](https://github.com/XDavid1999/PacketService) | v0.4.2 **Reenvío**  |
 | HERNANDEZ MORENO, DIEGO|[Order'n'Go](https://github.com/LCinder/Order-n-Go)| v2.0.4 |
 | HIDALGO CARMONA, MANUEL| | |
@@ -53,4 +53,4 @@
 | VEGA PALMA, LEANDRO| | |
 | VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.10 |
 | VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.4.1 **Reenvio** |
-| YE , BATE|[DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v3.0.1 **Reenvio**|
+| YE , BATE|[DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v3.0.2 **Reenvio**|

@@ -26,7 +26,7 @@
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Llevar a cabo tests unitarios.
 
-## Cuarta semana
+## Cuarta y quinta semana
 - [x] Entender y corregir errores del hito 1, por ejemplo, añadir clases de error o excepción o documentar detalladamente la implementación de las clases.
 - [x] Introducción a Docker y creación de un Dockerfile.
 - [x] Subir correctamente el contenedor a Docker Hub.
@@ -35,3 +35,11 @@
 - [x] Mejorar el código fuente del proyecto en base a lo mencionado en los comentarios adicionales de la corrección del hito anterior.
 - [x] Mejorar la documentación del proyecto en base al hito anterior, por ejemplo, poniendo enlaces más visibles y documentando con más detalle.
 - [x] Adjuntar [repositorio](https://github.com/irenecj/ejercicios-autoevaluacion-IV) para los ejercicios.
+
+## Sexta semana
+- [x] Entender el concepto de integración continua y usarla en una aplicación.
+- [x] Configurar Travis CI.
+- [x] Configurar Circle CI.
+- [x] Documentar funcionamiento correcto de ambas.
+- [x] Avanzar código respecto al hito anterior.
+- [x] Realizar los [ejercicios 9 y 10](https://github.com/irenecj/ejercicios-autoevaluacion-IV/blob/main/TEMA4/EjerciciosIV-Tema4.md) del tema sobre TDD.

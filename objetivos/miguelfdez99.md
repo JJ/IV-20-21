@@ -29,3 +29,9 @@
 - [x] Entender el funcionamiento de Docker
 - [x] Registrarme en DockerHub y comprender su funcionamiento
 - [x] Ejercicios del [Tema 3](https://github.com/miguelfdez99/Ejercicios-IV)
+
+## Sexta semana
+- [x] Entender el concepto de integración continua y a usarla en una aplicación
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Realizar los ejercicios sobre [integración continua](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/ic.md)

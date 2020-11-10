@@ -1,4 +1,4 @@
-# Sexta semana, comienza el 3 de Noviembre.
+# Séptima semana, comienza el 3 de Noviembre.
 
 ## Objetivos de la semana
 
@@ -45,7 +45,7 @@
       diferentes. Por ejemplo, si las construyes también en Docker Hub
       simplemente hay que enlazar el build correspondiente (que apunta
       al commit en el que se ha hecho)
-      
+
 
 
 ## Material para la clase
@@ -57,7 +57,7 @@ parte el capítulo sobre desarrollo basado en pruebas.
 * Comenzamos
   [microservicios](http://jj.github.io/IV/documentos/temas/Microservicios),
   pero empezamos por lo más básico: configuración.
-  
+
 - Seguimos con
   el
   [cuarto hito](http://jj.github.io/IV/documentos/proyecto/4.CI). La

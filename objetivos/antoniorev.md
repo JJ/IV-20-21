@@ -43,3 +43,18 @@
 - [X] Entender que se pueden usar diferentes imágenes para los contenedores dependiendo del objetivo del contenedor.
 - [X] Evaluar qué imagen es más adecuada para mi proyecto.
 - [X] Creado repositorio de [ejercicios](https://github.com/AntonioRev/EjerciciosIV)
+
+
+# Semanas del 27 de octubre y del 3 de noviembre
+
+## Objetivos cumplidos esta semana
+
+- [X] Entender el concepto de integración continua.
+- [X] Comenzar a usar la integración continua en el repositorio de mi aplicación.
+- [X] Comenzar con la configuración de los sistemas de integración continua dentro de mi aplicación.
+- [X] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [X] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [X] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube como GitHub.
+- [X] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+- [X] Entender la importancia de los sistemas de log.
+- [X] Crear el (repositorio para los ejercicios de la asignatura)[https://github.com/antoniorev/EjerciciosIV/tree/main/Hito4]

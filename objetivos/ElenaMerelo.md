@@ -44,3 +44,4 @@ Repositorio con los ejercicios de autoevaluación [aquí](https://github.com/Ele
 - [X] Entender qué es la integración contínua 
 - [X] Sobre varios sistemas de integración contínua
 - [X] Qué se hace para añadir CI
+- [X] Configurar GitHub Actions y Travis

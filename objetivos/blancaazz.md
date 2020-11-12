@@ -87,3 +87,15 @@
 - [x] Darse de alta en Travis
 
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales
+
+## Séptima semana
+
+- [x] Entender los diferentes niveles de abstración que llevan a contruir una aplicación en la nuve.
+
+- [x] Entender la importancia de los sitemas de configuración distribuida y su utilidad en despliegues en la nube.
+
+- [x] Un [fichero travis] (https://github.com/blancaazz/Lecturas/blob/master/.travis.yml) y [como](https://github.com/blancaazz/Lecturas/blob/master/docs/integracion_continua.md) he llegado hasta ahí
+
+- [x] Reentregar el hito 3 una vez corregido
+
+- [x] Entender los errores en el hito 3

@@ -50,3 +50,10 @@
 - [x] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
 - [x] Entender la importancia de los sistemas de log.
 - [x] Finalizar los ejercicios de autoevaluación del tema 2. Se encuentran en [este repositorio](https://github.com/ManuelJNunez/autoevaluacionIV).
+
+## Octava semana
+
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Entender los posibles casos de uso.
+- [x] Comenzar por entender la estructura de HTTP y cómo se usa para construir APIs. Ya creé algunas APIs hace tiempo, por ejemplo [node-restserver](https://github.com/ManuelJNunez/node-restserver).
+- [x] Darse de alta en un servicio "serverless" como Vercel. Empezar a usar Firebase. Los ejercicios sobre serverless se encuentran en [este repo](https://github.com/ManuelJNunez/autoevaluacionIV).

@@ -28,3 +28,10 @@
 - [x] Entender Docker y el ecosistema de contenedores.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [] [Ejercicios autoevaluación hito 2](https://github.com/aleveji/Ejs-IV/blob/main/docs/ejs-hito2.md)
+
+## Semana del 20 de octubre
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [x] Diseñar, implementar y construir un centro de procesamiento de datos virtual.
+- [x] Documentar y mantener una plataforma virtual.
+- [x] Optimizar aplicaciones sobre plataformas virtuales.

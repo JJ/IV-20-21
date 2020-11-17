@@ -50,10 +50,17 @@
 
 ## Semana 5
 
-## Semana 5
-
 [Ejercicios de autoevaluacion](https://github.com/antoniogamiz/iv-autoevaluacion#hito-4)
 
 - [x] Entender el concepto de integración continua y usarla en una aplicación.
 - [x] Aprender más o menos la configuración de travis.
 - [x] Mirar Jenkins, que siempre he escuchado hablar de él pero no lo he probado.
+
+## Semana 6, 7, 8
+
+[Ejercicios de autoevaluación](https://github.com/antoniogamiz/iv-autoevaluacion#hito-5)
+
+- [x] Entender los casos de uso de la tecnología serverless en el concepto de una aplicación virtual.
+- [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [x] Usar vercel y netlify.
+

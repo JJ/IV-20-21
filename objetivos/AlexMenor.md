@@ -51,3 +51,12 @@
 - [x] Entender el concepto de serverless y su uso en entornos cloud. Me he dado de alta en vercel y he hecho [el despliegue](https://serverless-vercel-seven.vercel.app/api/date) de [una función.](https://github.com/AlexMenor/serverless-vercel)
 - [x] Entender los casos de uso de esta tecnología.
 - [x] Mirar frameworks serverless como [serverless](https://www.serverless.com/framework/docs/getting-started/)
+
+# Octava semana
+
+- [x] Entender el concepto de webhook. He hecho [un ejercicio](https://github.com/AlexMenor/autoevaluacion-iv/blob/master/serverless/webhook.md) que reconstruye una blog jamstack usando dev.to como CMS, que llama mediante un webhook a la reconstrucción del sitio cuando un artículo ha sido creado o modificado.
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Entender los casos de uso para las funciones-como-servicio. He leído [este](https://martinfowler.com/articles/serverless.html) artículo para entenderlo mejor.
+- [x] Entender el concepto de observabilidad.
+

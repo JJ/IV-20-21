@@ -41,3 +41,16 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [Enlace a los ejercicios del Tema 2](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Tema%202.md)
 - [Enlace a los ejercicios del Tema 3](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Tema%203.md)
+
+## Objetivos semana 7
+
+- [x] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [x] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube.
+- [ ] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+- [ ] Entender la importancia de los sistemas de log.
+
+## Objetivos semana 8
+
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Entender los posibles casos de uso.
+- [x] Entrega de ejercicios del tema [Serverless Computing](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Serverless.md)

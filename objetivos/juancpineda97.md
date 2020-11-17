@@ -34,3 +34,10 @@
 - [x] Ver diferentes ejemplos de contenedores, con sus casos de usos diferentes.
 - [x] Comprender los hooks de git.
 - [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema3.md) del Tema 3.
+
+## Objetivos Semana 6
+
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema4.md) del tema de Integración Continua.

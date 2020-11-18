@@ -57,3 +57,17 @@
 - [x] Entender los posibles casos de uso.
 - [x] Comenzar por entender la estructura de HTTP y cómo se usa para construir APIs. Ya creé algunas APIs hace tiempo, por ejemplo [node-restserver](https://github.com/ManuelJNunez/node-restserver).
 - [x] Darse de alta en un servicio "serverless" como Vercel. Empezar a usar Firebase. Los ejercicios sobre serverless se encuentran en [este repo](https://github.com/ManuelJNunez/autoevaluacionIV).
+
+## Novena semana
+
+- [x] Entender el concepto de webhook
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
+- [x] Entender el concepto de observabilidad.
+- [x] Instalarse `ngrok`.
+- [x] Instalarse `jq`: herramienta para examinar JSON y extraer resultados del mismo.
+- [x] Darse de alta en Netlify.
+- [x] La última semana no añadí el ejercicio de sobre "serverless", por tanto lo he añadido. Los ejercicios se encuentran en [este repo](https://github.com/ManuelJNunez/autoevaluacionIV).
+
+

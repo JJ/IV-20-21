@@ -53,3 +53,12 @@
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales. Esta parte está comentada en la semana anterior.
 - [x] Comienzo del hito 4.
 - [x] Estudiar distintas posibilidades sobre sistemas de integración continua (travis, jenkins, etc).
+
+## Semana del 16 de noviembre
+
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Trastear con sistemas que nos permiten ejecutar funciones serverless como Vercel y Netlify.
+- [x] Entender las funciones-como-servicio, un post interesante es [este](https://sg.com.mx/revista/56/funciones-como-servicio).
+- [x] Casos de uso funciones serverless.
+- [x] Comienzo del hito 5.
+- [x] Los ejercicios relativos al hito 5 se pueden consultar en el [repositorio de ejercicios](https://github.com/sergiovp/IV-Ejercicios/blob/main/Sesiones/sesión_hito_5.md)

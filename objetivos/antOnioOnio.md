@@ -41,3 +41,11 @@
 - [x] Entender el concepto de integración continua y como afecta al desarrollo del software
 - [x] Estudiar los distintos sistemas de integración continua
 - [x] Realizar los ejercicios de integración continua y entenderlos bien, pueden consultarse [aquí](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/integracionContinua.md)
+
+## Objectivos septima semana
+
+- [x] [Ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/serverles.md)
+- [x] Darse de alta vercel
+- [x] Entender bien qué es un webhook
+- [x] Entender bien qué es un servicio serverless y su uso
+- [x] Aprender a desarrollar aplicaciones en la nube

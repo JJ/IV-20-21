@@ -20,6 +20,6 @@
 
 ## Tercera semana
 
-- [x] Entender la importancia de los tests y su relación con devops.
+- [x] Entender la importancia de los [tests](https://githubusercontent.com/LeandroVP/PiHoleUpdater/master/test/filesTest.ts) y su relación con devops.
 - [x] Entender los beneficios de user un gestor de versiones versus versiones de repositorio de diferentes lenguajes de programación.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.

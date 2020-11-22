@@ -45,7 +45,7 @@
 
 ## Semana del 9 de Noviembre
 
-- [x] Ejercicios de autoevaluación sobre funciones serverless.
+- [x] Ejercicios de autoevaluación sobre [funciones serverless](https://github.com/yabirgb/IV-autoevaluacion/tree/master/vercel-example).
 - [x] Comprender las ventajas de las funciones serverless.
 - [x] Desplegar una función serverless con [Rust](https://github.com/yabirgb/IV-autoevaluacion/tree/master/vercel-example).
 

@@ -8,7 +8,7 @@
 =======
 | AZAÑON CANTERO, SERGIO| | |
 | BELTRAN SANCHEZ, FRANCISCO| | |
-| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.0 |
+| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.1 |
 | CANO JEREZ, IRENE| | |
 >>>>>>> 696c72c (añade hito 5)
 | CHAVES CABALLERO, MARIO| | |

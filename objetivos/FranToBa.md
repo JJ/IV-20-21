@@ -41,4 +41,12 @@
 - [x] Darse de alta en Travis y otros servicios de integración/despliegue continuo.
 - [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s6.md) de la semana correspondiente.
 
+## Octava semana
+
+- [x] Conocer las diferentes tecnologías y herramientas de virtualización tanto para procesamiento como para comunicación y almacenamiento.
+- [x] Entender los conceptos necesarios para diseñar, implementar y construir una aplicación sobre infraestructura virtual.
+- [x] Documentar, administrar, mantener y optimizar la infraestructura virtual de una aplicación.
+- [x] Saber aplicar diferentes tecnologías relacionadas con la virtualización al diseño de aplicaciones en infraestructura virtual: DevOps, contenedores, microservicios, serverless, integración y despliegue continuo y saber aplicarlos en la definición por software de la infraestructura y despliegue de una aplicación.
+- [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s8.md) de la semana correspondiente.
+
 

@@ -10,7 +10,7 @@
 | CUADROS LAPRESTA, ANTONIO| | |
 | DEL POZO MORENO, RAUL| | |
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
-| GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api)  | v1.0.0 |
+| GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api)  | v1.0.0|
 | GARCIA BENCHAKHTIR, YABIR| | |
 | GARCIA CASTILLO, ANTONIO| | |
 | GARCIA COLLADO, JOSE ALBERTO| | |

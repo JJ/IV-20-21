@@ -2,7 +2,7 @@
 |--------|--------|---------|
 | AZAÑON CANTERO, SERGIO| | |
 | BELTRAN SANCHEZ, FRANCISCO| | |
-| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.1 |
+| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.2 |
 | CANO JEREZ, IRENE| | |
 | CHAVES CABALLERO, MARIO| | |
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| | |

@@ -5,5 +5,5 @@ install:
   - docker pull jjmerelo/iv-test
   - docker images
 
-script: 
-  - docker run -t -v  $TRAVIS_BUILD_DIR:/test jjmerelo/iv-test
+script:
+  - docker run -t --env TRAVIS_PULL_REQUEST -v  $TRAVIS_BUILD_DIR:/test jjmerelo/iv-test

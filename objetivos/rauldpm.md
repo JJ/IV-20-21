@@ -42,3 +42,17 @@
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] [Ejercicios realizados del tema 2 - Desarrollo basado en pruebas](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema2.md).
 - [x] [Ejercicios realizados del tema 3 - Usando contenedores](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema3.md).
+
+## Semana 7
+
+- [x] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [x] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+- [x] Entender la importancia de los sistemas de log.
+
+## Semana 8 
+
+- [x] Corregir algunos errores del hito 4.
+- [x] Entender que es el serverless computing.
+- [x] Entender los casos de uso de la tecnología serverless en el concepto de una aplicación virtual.
+- [x] [Ejercicios realizados del tema 4 - Integración continua](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema4.md).
+- [x] [Ejercicios realizados del tema 5 - Serverless computing](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema5.md).

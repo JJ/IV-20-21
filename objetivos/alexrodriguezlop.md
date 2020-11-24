@@ -46,3 +46,11 @@
 - [x] 6. Darse de alta en Travis y otros servicios de integración/despliegue continuo.
 - [x] 7. Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [x] 8. Hacer los  [Ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana6) 8 y 9.
+
+## Semana  7, 8 y 9 (10 de noviembre)
+- [X] He comprendido que es serverless computing.
+- [X] He comprendido el funcionamiento de una función serverless y su despliegue.
+- [x] Me he dado de alta en Netlify, Firebase y Vircel
+- [X] He Aprendido prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [x] He comprendido mejor REST.
+- [X] He realizado los [ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana9).

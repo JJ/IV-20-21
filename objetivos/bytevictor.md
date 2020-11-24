@@ -28,7 +28,7 @@
 - [x] He comprendido para que sirve el fichero package.json y qué es un taskfile
 - [x] He aprendido a instalar todas las herramientas necesarias y aplicar tests en un proyecto
 
-## Cuarta semana
+## Cuarta y quinta semana
 
 - [x] He aprendido que es y para que sirve un Docker
 - [x] He aprendido a utilizar DockerHub
@@ -37,12 +37,20 @@
 - [x] He aprendido a enlazar paquetes en un repositorio de github [que puede verse AQUÍ](https://github.com/users/ByteVictor/packages/container/package/dockertests)
 - [x] He aprendido a ejecutar tests dentro de un Docker
 
-## Quinta semana
+## Sexta y séptima semana
 
-- [x] He realizado los ejericicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/hito4/README.md
+- [x] He realizado los ejericicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/H4/README.md
 - [x] He aprendido qué son los sistemas de integración continua
 - [x] He aprendido a configurar y utilizar Travis como sistema de integración continua
 - [x] He aprendido a configurar y utilizar CicleCI como sistema de integración continua
 - [x] He aprendido a utilizar imagenes de Docker junto con sistemas de integración continua
 - [x] He comprendido la utilidad de los sistemas de integración continua
 - [x] He aprendido a añadir badges al readme de github 
+
+## Octava y novena semana
+
+- [x] He realizado los ejericicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/H5/README.md
+- [x] He aprendido que son los sistemas serverless
+- [x] He aprendido a utilizar y configurar Vercel
+- [x] He aprendido a utilizar y configurar Netlify
+- [x] He comprendido para que sirve un sistema serverless

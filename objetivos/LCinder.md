@@ -48,3 +48,12 @@
 - [x] Valorar las diferentes imágenes del lenguaje que estamos usando y ver las iferencias en ejecución -y también los errores-
 - [x] Aprender a integrar *contenedores Docker* con sistemas CI
 - [x] Realizar los [ejercicios 9 y 10 del tema 4](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%204%20-%20Integraci%C3%B3n%20Continua/tema4Ejercicios.md)
+
+
+---
+
+## Semana 6: 22/11
+- [x] Entender qué es el *serverless* y para qué sirve.
+- [x] Probar diferentes plataformas de despliegue de proyectos, comprobar diferencias, diferentes usos, etc.
+- [x] Entender cómo una API puede suministrar los datos a una aplicación y los diferentes tips de funciones que pueden existir, prestando atención a opciones como *module.exports,* archivos *.json,* etc.
+- [x] Realizar los [ejercicios del tema de serverless](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%205%20-%20Serverless/ejerciciosTema5.md)

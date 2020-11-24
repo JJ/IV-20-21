@@ -72,3 +72,10 @@ sobre todo el parámetro -v
 - [x] Hacer un PR a un compañero para avanzar su cobertura de tests
 
 - [x] [Hacer los ejercicios 1, 9 y 10](https://github.com/guillelpnz/Ejercicios/blob/master/TDD.md)
+
+## Sexta semana
+
+- [x] Entender el concepto de Serverless computing y usarlo para desplegar
+funciones y acceder a ellas mediante un endpoint.
+- [x] Hacer los [3 ejercicios del tema](https://github.com/guillelpnz/Ejercicios/blob/master/Serverless/serverless.md)
+- [x] Aprender node para desplegar una función en Netlify

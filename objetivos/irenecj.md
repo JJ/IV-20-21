@@ -43,3 +43,12 @@
 - [x] Documentar funcionamiento correcto de ambas.
 - [x] Avanzar código respecto al hito anterior.
 - [x] Realizar los [ejercicios 9 y 10](https://github.com/irenecj/ejercicios-autoevaluacion-IV/blob/main/TEMA4/EjerciciosIV-Tema4.md) del tema sobre TDD.
+
+## Novena semana
+- [x] Entender el concepto de webhook.
+- [x] Entender el concepto de serverless.
+- [x] Registrarse en Vercel, en Netlify y en Firebase.
+- [x] Hacer uso para el proyecto de más de una de estas plataformas.
+- [x] Aprender a crear un bot de Telegram.
+- [x] Utilizar diversas plataformas
+- [x] Realizar los [ejercicios propuestos.](https://github.com/irenecj/ejercicios-autoevaluacion-IV/blob/main/TEMA5/ejerciciosIV-Tema5.md)

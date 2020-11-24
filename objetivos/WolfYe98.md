@@ -48,4 +48,20 @@
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [x] [Autoevaluacíon](https://github.com/WolfYe98/Ejercicios_IV/tree/master/Tema%204)
 
+## Semana 8-9:
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Entender los posibles casos de uso.
+- [x] Comenzar por entender la estructura de HTTP y cómo se usa para construir APIs.
+- [x] Darse de alta en un servicio "serverless" como Vercel. Empezar a usar Firebase
+- [x] Entender el concepto de webhook.
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
+- [x] Darse de alta en Netlify.
+- [x] Crear un bot de Telegram en Vercel
+- [x] Usando parámetros en funciones serverless
+- [x] Entender como crear un despliegue serverless para el hito número cinco.
+- [x] Entender la importancia de los loggers para la observabilidad.
+- [x] [Autoevaluación](https://github.com/WolfYe98/Ejercicios_IV/tree/master/Serverless)
+
 [Aquí están los ejercicios de autoevaluación](https://github.com/WolfYe98/Ejercicios_IV)

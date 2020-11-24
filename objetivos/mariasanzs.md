@@ -47,3 +47,12 @@
 - [x] Aprender como configurar Travis como herramienta de integración continua.
 - [x] Aprender como configurar Shippable como herramienta de CI.
 - [x] Entregar el proyecto en la fecha (6/11).
+
+## Semana del 23/11/2020
+- [x] [Realizar los ejercicios propuestos sobre serverless](https://github.com/mariasanzs/EjerciciosIV/blob/master/hito5/autoevaluacionHito5.md#enlaces-a-los-ejercicios).
+- [x] Conocer como como crear un despliegue serverless
+- [x] Conocer como el concepto de WebHook
+- [x] Aprender a poner en marcha Vercel y Netlify
+- [x] Aprender a usar AWS lambda para crear un bot de telegram
+- [x] Entregar el proyecto en la fecha (24/11).
+

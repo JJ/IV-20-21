@@ -32,3 +32,9 @@
 - [x] He entendido el concepto de integración continua, y su importancia.
 - [x] He conocido travis como sistema de CI, y como es su fichero de configuración.
 - [x] Tras esto he realizado los [ejercicios propuestos.](https://github.com/sarasolera/ejerciciosIV/blob/main/tema_4.md)
+## Sexta semana 17 Noviembre
+- [x] He entendido que son funciones serverless
+- [x] He conocido diferentes plataformas, vercel, netlify y me he dado de alta
+- [x] He realizado los [ejercicios](https://github.com/sarasolera/ejerciciosIV/blob/main/ejercicios_serverless.md)
+- [x] He usado ngrok haciendo algunos ejemplos en azure.
+- [x] He entendido un poco más la estructura HTTP y características de sus peticiones 

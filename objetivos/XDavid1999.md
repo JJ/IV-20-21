@@ -44,3 +44,10 @@
 - [X] Usar nuestros contenedores y taskrunners dentro de nuestros CI.
 - [X] Documentar todo el proceso.
 - [X] Realizar los [ejercicios 9,10 y 1](https://github.com/XDavid1999/Exercises/tree/master/Ejercicios).
+
+## Sexta semana
+
+- [X] Realizar 2 de los 3 ejercicios del tema: [ejercicio 1](https://github.com/XDavid1999/Exercises/blob/master/Ejercicios/ejercicio1-serverless/ejercicio1.md) y [ejercicio 2](https://github.com/XDavid1999/Exercises/blob/master/Ejercicios/ejercicio2-serverless/ejercicio2.md).
+- [X] Entender, documentar y desplegar función en vercel.
+- [X] Entender, documentar y desplegar función en firebase.
+- [X] Creat bot de telegram con webhooks y firebase.

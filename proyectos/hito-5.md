@@ -16,7 +16,7 @@
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.5.0 |
 | GARCIA MARTINEZ, DAVID| | |
 | GONZALEZ ARGUDO, VICTOR JOSE| | | |
-| HEREDIA CORTES, DAVID| [PacketService](https://github.com/XDavid1999/PacketService) | v0.5.1 |
+| HEREDIA CORTES, DAVID| [PacketService](https://github.com/XDavid1999/PacketService) | v0.5.2 |
 | HERNANDEZ MORENO, DIEGO| | |
 | HIDALGO CARMONA, MANUEL| | |
 | IZQUIERDO GARCIA,ANGELA| | |

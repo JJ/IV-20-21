@@ -70,3 +70,16 @@
 - [x] Aprender a crear **secrets** en GitHub
 - [x] Comprender qué son, su utilidad y cómo usar los **tests de cobertura**
 - [x] Aprender un poco sobre testear código en **Go**
+
+
+## Sexta semana
+
+- [x] Realizar el [ejercicio 1](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio1.md) del tema *Uso de sistemas serverless*
+- [x] Realizar el [ejercicio 2](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio2.md) del tema *Uso de sistemas serverless*
+- [x] Entender la utilidad de los **sistemas serverless**
+- [x] Entender el concepto de **Webhook**
+- [x] Aprender a desplegar una función en **Vercel**
+- [x] Aprender a desplegar una función en **Netlify**
+- [x] Adquirir conocimientos del lenguaje **Node**
+- [x] Aprender a integrar una función serverless con un **bot de Telegram**
+- [x] Entender como funciona una función *Handler*

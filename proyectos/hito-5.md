@@ -47,7 +47,7 @@
 | SANZ SANCHEZ, MARIA| [MakeupIV](https://github.com/mariasanzs/makeupIV) | V5.0.5 |
 | SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | v5.0.1|
 | STETSKIY , NIKITA| | |
-| TORRES BAREA, FRANCISCO JAVIER| | |
+| TORRES BAREA, FRANCISCO JAVIER| [CloudFood](https://github.com/FranToBa/CloudFood)  | v5.0.0 |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |

@@ -23,7 +23,7 @@
 | LEJARRAGA RUBIO, ALBERTO| | |
 | LUPIAÑEZ TAPIA, GUILLERMO | [TextAnalyzer](https://github.com/guillelpnz/TextAnalyzer) | v1.5.1 |
 | LUQUE JARAVA, BLANCA| | |
-| MARTIN LEON, ANTONIO| [Buscador-Partidos](https://github.com/antonioml97/BuscadorPartidos) | v.1.4.7  **Reenvío** |
+| MARTIN LEON, ANTONIO| [Buscador-Partidos](https://github.com/antonioml97/BuscadorPartidos) | v.1.4.8  **Reenvío** |
 | MENOR MOLINERO, ALEJANDRO|[que-vemos](https://github.com/AlexMenor/que-vemos) | v1.0.7 |
 | MERELO MOLINA, CECILIA| | |
 | MERELO MOLINA, ELENA| | |

@@ -134,4 +134,4 @@
 
 - [X] Entender la importancia de los loggers para la observabilidad.
 
-- [X] Realizar [ejercicios de autoevalución](https://github.com/Davidspace/Ejercicios_IV/tree/main/Serverless%20computing) del tema de Serverless.
+- [X] Realizar [ejercicios de autoevalución](https://github.com/Davidspace/Ejercicios_IV/tree/main/Serverless%20computing) del tema de Serverless computing.

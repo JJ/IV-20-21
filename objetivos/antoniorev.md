@@ -57,4 +57,17 @@
 - [X] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube como GitHub.
 - [X] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
 - [X] Entender la importancia de los sistemas de log.
-- [X] Crear el (repositorio para los ejercicios de la asignatura)[https://github.com/antoniorev/EjerciciosIV/tree/main/Hito4]
+- [X] Crear el repositorio para los [ejercicios de la asignatura](https://github.com/antoniorev/EjerciciosIV/tree/main/Milestone4)
+
+
+# Semanas del 10 de noviembre y 17 de noviembre
+
+## Objetivos cumplidos esta semana
+
+- [X] Entender el concepto serverless y el uso que se le da en los entornos cloud.
+- [X] Darse de alta en Vercel
+- [X] Entender el concepto de webhook
+- [X] Usar parámetros en funciones serverless
+- [X] Entender como crear un despliegue serverless
+- [X] Entender la importancia de los loggers
+- [X] Realizados los [ejercicios del tema Serverless](https://github.com/antoniorev/EjerciciosIV/tree/main/Milestone5)

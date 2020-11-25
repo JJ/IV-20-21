@@ -41,8 +41,14 @@
 - [X] Darme de alta en algún servicio de integración continua y activar el repositorio en el que la vayamos a aplicar. Este procedimiento se puede ver en el siguiente [enlace](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20CI/ejercicio9.md).
 - [X] Configurar integración continua para nuestra aplicación usando Travis. Esto se puede ver [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20CI/ejercicio10.md).
 
-## Séptima semana
+## Séptima y octava semana
 
 - [X] Investigar sobre serverless, su uso en entornos cloud y sus posibles casos de uso.
 - [X] Darse de alta en Vercel y Firebase, y descargarse los SDKs para poder trabajar con ellos localmente, cuyo procedimiento se puede ver en el siguiente [enlace](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Serverless/serverless.md#ejercicio-1-darse-de-alta-en-vercel-y-firebase-y-descargarse-los-sdks-para-poder-trabajar-con-ellos-localmente).
 - [X] Hacer el despliegue de una función de prueba en Vercel. El procedimiento se puede consultar [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Serverless/serverless.md#ejercicio-2-tomar-alguna-de-las-funciones-de-prueba-de-vercel-y-hacer-despliegues-de-prueba-con-el-mismo), mientras que la prueba del correcto despliegue se puede consultar en el siguiente [enlace](https://test-vercel-ochre.vercel.app/api/date).
+
+## Novena semana
+
+- [X] Entender el concepto de webhook.
+- [X] Aprendizaje sobre AWS, concretamente en el uso de AWS Lambda.
+- [X] Ejercicios sobre [Serverless](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Serverless/serverless.md).

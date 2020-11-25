@@ -42,3 +42,16 @@
 - [x] Aprender como utilizar la cache de travis para `RUST`.
 - [x] Investigar sobre los orbes de `circle-ci`.
 - [x] Continuar con el código del proyecto. 
+
+## Semana del 9 de Noviembre
+
+- [x] Ejercicios de autoevaluación sobre [funciones serverless](https://github.com/yabirgb/IV-autoevaluacion/tree/master/vercel-example).
+- [x] Comprender las ventajas de las funciones serverless.
+- [x] Desplegar una función serverless con [Rust](https://github.com/yabirgb/IV-autoevaluacion/tree/master/vercel-example).
+
+## Semana del 16 de Noviembre
+
+- [x] Estudiar como de posible es hacer un microservicio con Rust y desplegarlo en las plataformas con tier gratuito.
+- [x] Aprender a usar svelte.
+- [x] Conocer como funcionan plataformas como vercel o aws.
+- [x] Conocer como optimizar [aplicaciones serverless](https://medium.com/theburningmonk-com/all-my-posts-on-serverless-aws-lambda-43c17a147f91).

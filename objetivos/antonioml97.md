@@ -34,3 +34,13 @@
 ## Quinta semana
 - [x] Entender que es la Integración continua.
 - [x] Ejercicio 9 y 10 [aquí](https://github.com/antonioml97/IV-Ejercicios/blob/main/Travis/travis.md)
+
+## Quinta semana
+- [x] Entender que es la Integración continua.
+- [x] Ejercicio 9 y 10 [aquí](https://github.com/antonioml97/IV-Ejercicios/blob/main/Travis/travis.md)
+
+# Semana del 16 de noviembre
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Pequeño uso de sistemas que nos permiten ejecutar funciones serverless como Vercel y Netlify.
+- [x] Comenzar Hito 5.
+- [x] Ejercicios correspondientes [aquí](https://github.com/antonioml97/IV-Ejercicios/blob/main/Tema%20Serverless/Ejercicios.md)

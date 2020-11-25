@@ -46,3 +46,14 @@
 - [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Haber entregado el hito 3, o estar a punto de hacerlo.
 - [x] Ejercicios [TDD](https://github.com/javizzyv/EjerciciosIV/blob/master/Ejercicios/Tema2.md).
+
+## Semana 7
+
+- [x] Entender el concepto de webhook.
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
+- [x] Entender el concepto de observabilidad.
+- [x] Darse de alta en Netlify.
+- [x] Entender como crear un despliegue serverless para el hito número cinco.
+- [x] Ejercicios [Serverless][https://github.com/javizzyv/EjerciciosIV/blob/master/Ejercicios/Tema4.md]

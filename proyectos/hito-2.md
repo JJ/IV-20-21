@@ -50,7 +50,7 @@
 | TORRES BAREA, FRANCISCO JAVIER|[CloudFood](https://github.com/FranToBa/CloudFood) | v2.0.2 **Reenvío** |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| [RecipeFinder](https://github.com/aleveji/RecipeFinder)| v1.0.0 |
-| VEGA PALMA, LEANDRO| | |
+| VEGA PALMA, LEANDRO| [PiHoleUpdater](https://github.com/LeandroVP/PiHoleUpdater) | v0.0.3 |
 | VELA PELEGRINA, SERGIO| [Organize&Go](https://github.com/sergiovp/IV-OrganizeAndGo) | v0.0.7 |
 | VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.2.1 **Reenvío** |
 | YE , BATE| [DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate)| v1.0.8**Reenvío**|

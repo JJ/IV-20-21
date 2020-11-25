@@ -38,3 +38,10 @@
 - [x] Comenzar con la configuración de los sistemas de integración continua. [Travis](https://github.com/torchu/GymBot/blob/master/docs/travis.md) y [Shippable](https://github.com/torchu/GymBot/blob/master/docs/shippable.md).
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/TDD.md) 9 y 10 del tema sobre TDD.
+
+## Octava y novena semana
+- [x] Entender el concepto de serverless.
+- [x] Darse de alta en [Vercel](https://vercel.com/torchu).
+- [x] Comprender el concepto de *webhook*.
+- [x] Darse de alta en [Netlify](https://app.netlify.com/teams/torchu/overview).
+- [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/serverless.md) del tema sobre Serverless Computing.

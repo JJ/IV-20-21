@@ -35,3 +35,16 @@
 - [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Realizar los ejercicios sobre [integración continua](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/ic.md)
+
+## Octava y novena semana
+- [x] Entender el concepto de serverless y su uso en entornos cloud
+- [x] Entender los posibles casos de uso.
+- [x] Entender los errores del hito anterior
+- [x] Darse de alta en [Vercel](https://vercel.com/miguelfdez99)
+- [x] Darse de alta en [Netlify](https://app.netlify.com/teams/miguelfdez99/overview)
+- [x] Entender el concepto de webhook 
+- [x] Entender el concepto de continuous delivery 
+- [x] [Ejercicios del tema Serverless](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/serverless.md)
+
+
+

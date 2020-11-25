@@ -44,3 +44,11 @@
 - [x] Darse de alta en Travis y otros servicios de integración/despliegue continuo.
 - [x] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.
 - [x] Realizados los [ejercicios](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%202%20-%20TDD#ejercicio-9) 9 y 10 del tema sobre TDD. 
+
+## Sexta semana
+- [x] Entender los casos de uso de la tecnología serverless en el concepto de una aplicación virtual.
+- [x] Darse de alta en Netlify.
+- [x] Darse de alta en Vercel.
+- [x] Usar parámetros en funciones serverless.
+- [x] Entender como crear un despliegue serverless.
+- [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%206%20-%20Serverless#ejercicio-1) del tema sobre Serverless. 

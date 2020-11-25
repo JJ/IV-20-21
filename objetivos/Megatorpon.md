@@ -33,3 +33,15 @@
 - [X] Comenzar a ver tutoriales sobre el uso de las herramientas instaladas para su correcta utilización.
 - [X] Realizar ejercicios de autoevaluación relacionados con el tema 2.
   [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/blob/main/Tema_2)
+  
+ 
+ 
+### Cuarta semana
+
+- [X] Conocer las diferentes tecnologías de virtualización tanto para procesamiento, comunicación y almacenamiento.
+- [X] Entender Docker y su ecosistema de contenedores
+- [X] Entender la importancia y funcionamiento de los Dockerfiles
+- [X] Elegir un contenedor base para el proyecto
+- [X] Subir contenedor a DockerHub y a GitHub Container Registry
+- [X] Realizar ejercicios de autoevaluación relacionados con el tema 3.
+  [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_3)

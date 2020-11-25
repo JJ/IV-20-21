@@ -41,3 +41,10 @@
 - [X] Darse de alta en Travis o otro servicio de integración continua
 - [X] Entender qué es Travis y aprender a utilizarlo correctamente
 - [X] Realizar los [ejercicios propuestos](https://github.com/sergiocantero8/IV-Autoevaluacion/tree/main/TEMA%204) del tema 4
+
+## Sexta semana
+- [X] Realizar los [ejercicios propuestos](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/serverless.md) del tema de serverless
+- [X] Comprender el concepto de serverless y cuándo es conveniente usarlo en el concepto de aplicación virtual
+- [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [X] Saber usar alguna plataforma para el despliegue de aplicaciones en la nube como Vercel

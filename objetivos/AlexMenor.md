@@ -60,3 +60,9 @@
 - [x] Entender los casos de uso para las funciones-como-servicio. He leído [este](https://martinfowler.com/articles/serverless.html) artículo para entenderlo mejor.
 - [x] Entender el concepto de observabilidad.
 
+# Novena semana
+
+- [x] Entender qué es un test de integración
+- [x] Enteder la importancia de los logs para la observabilidad. Me he registrado en Papertrail y he hecho [una prueba](https://github.com/AlexMenor/autoevaluacion-iv/tree/master/microservicios/logging) desde Python.
+- [x] Entender el concepto de ruta, middleware y URI.
+

@@ -26,7 +26,7 @@
 | MARTIN LEON, ANTONIO| [Buscador-Partidos](https://github.com/antonioml97/BuscadorPartidos) | v.1.4.8  **Reenvío** |
 | MENOR MOLINERO, ALEJANDRO|[que-vemos](https://github.com/AlexMenor/que-vemos) | v1.0.7 |
 | MERELO MOLINA, CECILIA| [VizYourData](https://github.com/cecimerelo/VizYourData) | v3.2.10 |
-| MERELO MOLINA, ELENA| | |
+| MERELO MOLINA, ELENA| [goFit]( https://github.com/ElenaMerelo/goFit) | v1.0.0 |
 | MOLINERO CASTILLO, JONATHAN| | |
 | MONTESINOS PERUJO, ISMAEL| | |
 | MORENO VILCHEZ, FRANCISCO JOSE| | |

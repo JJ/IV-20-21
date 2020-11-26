@@ -99,3 +99,21 @@
 - [x] Reentregar el hito 3 una vez corregido
 
 - [x] Entender los errores en el hito 3
+
+## Octava semana
+
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+
+- [x] Entender los posibles casos de uso.
+
+- [x] Comenzar por entender la estructura de HTTP y cómo se usa para construir APIs.
+
+- [x] Darse de alta en un servicio "serverless" como Vercel.
+
+- [x] Entender los errores frecuentes en el hito 4
+
+- [x] Ejercicios del tema de [Serverless](https://github.com/blancaazz/Ejercicios-IV)
+
+
+
+

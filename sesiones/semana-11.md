@@ -23,6 +23,6 @@ Incluye la siguiente semana que no hay clase
 
 - Entregar
   el
-  [hito 6](http://jj.github.io/IV/documentos/proyecto/6.Microservicios). la
+  [hito 6](http://jj.github.io/IV/documentos/proyecto/6.Microservicio). la
   siguiente semana.
  

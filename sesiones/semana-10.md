@@ -24,5 +24,5 @@
 - Teoría: [microservicios](http://jj.github.io/IV/documentos/temas/Microservicios).
 
 - Práctica:
-  [Hito 6](http://jj.github.io/IV/documentos/proyecto/6.Microservicios),
+  [Hito 6](http://jj.github.io/IV/documentos/proyecto/6.Microservicio),
   que habrá que entregar el **11 de diciembre** a las 23:59 horas.

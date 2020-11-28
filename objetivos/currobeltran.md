@@ -62,3 +62,4 @@
 - [x] Entender el concepto de continuous delivery o publicación continua.
 - [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
 - [x] Entender el concepto de observabilidad.
+[Serverless Computing](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Serverless.md)

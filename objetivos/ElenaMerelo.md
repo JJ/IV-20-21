@@ -50,7 +50,7 @@ Repositorio con los ejercicios de autoevaluación [aquí](https://github.com/Ele
 
 ## Sexta semana 
 
-[Ejercicios de autoevaluación](https://github.com/ElenaMerelo/iv-autoevaluacion#hito-5)
+[Ejercicios de autoevaluación](https://github.com/ElenaMerelo/iv-autoevaluacion)
 
 - [X] Qué es el serverless computing 
 - [x] Distintos servicios en el cloud 

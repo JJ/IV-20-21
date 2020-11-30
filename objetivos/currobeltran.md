@@ -54,3 +54,12 @@
 - [x] Entender el concepto de serverless y su uso en entornos cloud.
 - [x] Entender los posibles casos de uso.
 - [x] Entrega de ejercicios del tema [Serverless Computing](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Serverless.md)
+
+## Objetivos semana 9
+
+- [x] Entender el concepto de webhook con ejemplos como este o aquí
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
+- [x] Entender el concepto de observabilidad.
+[Serverless Computing](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Serverless.md)

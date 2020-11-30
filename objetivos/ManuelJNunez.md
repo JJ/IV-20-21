@@ -70,4 +70,10 @@
 - [x] Darse de alta en Netlify.
 - [x] La última semana no añadí el ejercicio de sobre "serverless", por tanto lo he añadido. Los ejercicios se encuentran en [este repo](https://github.com/ManuelJNunez/autoevaluacionIV).
 
+## Décima semana
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI. Programé varios [middlewares](https://github.com/ManuelJNunez/node-restserver/blob/master/server/middlewares/autenticacion.js) aprendiendo express.
+
 

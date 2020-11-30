@@ -103,3 +103,35 @@
 - [X] Documentar todo el proceso seguido para cumplir los objetivos.
 
 - [X] Realizados ejercicios de autoevaluación [9](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%209.md) y [10](https://github.com/Davidspace/Ejercicios_IV/blob/main/TDD/Ejercicio%2010.md) del [tema de TDD](https://github.com/Davidspace/Ejercicios_IV/tree/main/TDD).
+
+## Octava y novena semana
+
+- [X] Entender el concepto de serverless y su uso en entornos cloud.
+
+- [X] Entender los posibles casos de uso.
+
+- [X] Entender la estructura de HTTP y cómo se usa para construir APIs.
+
+- [X] Darse de alta en un servicio "serverless" como Vercel. Empezar a usar Firebase.
+
+- [X] Entender el concepto de webhook.
+
+- [X] Entender el manejo de los productos cloud de diferentes empresas.
+
+- [X] Entender el concepto de continuous delivery o publicación continua.
+
+- [X] Asimiliar los diferentes casos de uso para las funciones-como-servicio.
+
+- [X] Entender el concepto de observabilidad.
+
+- [X] Darse de alta en Netlify.
+
+- [X] Crear un bot de Telegram en Vercel.
+
+- [X] Usar parámetros en funciones serverless.
+
+- [X] Entender como crear un despliegue serverless para el hito número cinco.
+
+- [X] Entender la importancia de los loggers para la observabilidad.
+
+- [X] Realizar [ejercicios de autoevalución](https://github.com/Davidspace/Ejercicios_IV/tree/main/Serverless%20computing) del tema de Serverless computing.

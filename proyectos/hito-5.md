@@ -43,7 +43,7 @@
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
-| RUIZ MEDINA, DANIEL| [PAndemiun](https://github.com/DanielRuizMed/PAndemium) | v0.5.0 |
+| RUIZ MEDINA, DANIEL| [PAndemiun](https://github.com/DanielRuizMed/PAndemium) | v0.5.8 **Reenvío** |
 | SANZ SANCHEZ, MARIA| [MakeupIV](https://github.com/mariasanzs/makeupIV) | V5.0.5 |
 | SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | v5.0.3 **Reenvío**|
 | STETSKIY , NIKITA| [Micro-Calendario](https://github.com/nikitastetskiy/micro-calendario) | v5.0.8 |

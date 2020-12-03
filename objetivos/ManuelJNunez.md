@@ -76,4 +76,10 @@
 - [x] Entender la importancia de los logs para la observabilidad.
 - [x] Entender el concepto de ruta, middleware y URI. Programé varios [middlewares](https://github.com/ManuelJNunez/node-restserver/blob/master/server/middlewares/autenticacion.js) aprendiendo express.
 
+## Undécima semana
 
+- [x] Finalizar actividades de autoevaluación del tema de microservicios. Se encuentran en [este repo](https://github.com/ManuelJNunez/autoevaluacionIV).
+- [x] Entender los errrores frecuentes del hito 5.
+- [x] Entender el diseño de rutas.
+- [x] Entender los tests de integración.
+- [x] Microservicios en producción.

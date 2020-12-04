@@ -45,3 +45,6 @@
 - [x] Comprender el concepto de *webhook*.
 - [x] Darse de alta en [Netlify](https://app.netlify.com/teams/torchu/overview).
 - [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/serverless.md) del tema sobre Serverless Computing.
+
+## Decima semana
+- [x] Realizar reenvío hito 5.

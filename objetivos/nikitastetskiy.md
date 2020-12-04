@@ -43,5 +43,9 @@
 
 -   [x] Entender los casos de uso de la tecnología serverless. Me he dado en alta en servicios como Vercel o Netlify.
 -   [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+-   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/tree/master/tema%205).
+
+## Sexta semana (Reenvío)
+
 -   [x] Aprender como funcionan los webhooks y el bot de telegram.
 -   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/tree/master/tema%205).

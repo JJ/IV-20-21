@@ -2,7 +2,7 @@
 |--------|--------|---------|
 | AZAÑON CANTERO, SERGIO|[reserve-it](https://github.com/sergiocantero8/reserve-it) |v5.0.2 **Reenvío** |
 | BELTRAN SANCHEZ, FRANCISCO| [F1-Predictor](https://github.com/currobeltran/F1-Predictor) | v5.0.0 |
-| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.4 **Reenvio** |
+| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v5.0.5 **Reenvio** |
 | CANO JEREZ, IRENE| [proyecto-idiomas](https://github.com/irenecj/proyecto-idiomas) | v5.0.1 |
 | CHAVES CABALLERO, MARIO| | |
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| [GameStore](https://github.com/biilal1999/GameStore) | v5.0.1 |

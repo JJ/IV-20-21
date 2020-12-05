@@ -1,6 +1,6 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| AZAÑON CANTERO, SERGIO|[reserve-it](https://github.com/sergiocantero8/reserve-it) | v3.0.3 **Reenvío** |
+| AZAÑON CANTERO, SERGIO|[reserve-it](https://github.com/sergiocantero8/reserve-it) | v3.0.3 **Reenvío**  |
 | BELTRAN SANCHEZ, FRANCISCO| [F1 Predictor](https://github.com/currobeltran/F1-Predictor) | v3.0.1 |
 | CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v3.0.0 |
 | CANO JEREZ, IRENE|  [proyecto-idiomas](https://github.com/irenecj/proyecto-idiomas) | v3.0.2 **Reenvío**|

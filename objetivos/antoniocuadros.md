@@ -46,3 +46,13 @@
 - [X] Entender que parámetros recibe una función desplegada en un sistema serverless.
 - [X] Se han realizado los [ejercicios](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Serverless/ejercicios.md) relacionados con el tema serverless.
 - [X] Para la realización de los ejercicios nos hemos tenido que dar de alta en Vercel y Firebase y luego hacer una pequeña prueba de despliegue en Vercel.
+
+## Semana del 1 y 8 de diciembre
+- [X] Se ha entendido el concepto de microservicio.
+- [X] Entender la fase de diseño de rutas de un microservicio.
+- [X] Entender la necesidad de utilizar configuración distribuida en nuestros microservicios.
+- [X] Entender la necesidad de realizar tests de integración.
+- [X] Analizar los diferentes frameworks que existen para mi lenguaje utilizado (Ruby).
+- [X] Comprender las mejores prácticas para tener persistencia en nuestra aplicación.
+- [X] Entender y aplicar el concepto de middleware para implementar por ejemplo un logger.
+- [X] Realizar los [ejercicios de autoevaluación](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Microservicios/ejercicios.md)

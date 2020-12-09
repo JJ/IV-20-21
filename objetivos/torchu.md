@@ -40,11 +40,20 @@
 - [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/TDD.md) 9 y 10 del tema sobre TDD.
 
 ## Octava y novena semana
+
 - [x] Entender el concepto de serverless.
 - [x] Darse de alta en [Vercel](https://vercel.com/torchu).
-- [x] Comprender el concepto de *webhook*.
+- [x] Comprender el concepto de _webhook_.
 - [x] Darse de alta en [Netlify](https://app.netlify.com/teams/torchu/overview).
 - [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/serverless.md) del tema sobre Serverless Computing.
 
 ## Decima semana
+
 - [x] Realizar reenvío hito 5.
+
+## Undécima y duodécima semana
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/microservicios.md) del tema de Microservicios.

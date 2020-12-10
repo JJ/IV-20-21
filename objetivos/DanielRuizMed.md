@@ -48,3 +48,12 @@
 - [x] Entender la importancia de los loggers para la observabilidad.
 - [x] Realizar [serverless computing](https://github.com/DanielRuizMed/EjerciciosIV/tree/master/session8-9)
 
+## décima y undécima semana
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Entender el concepto de middleware en microservicios.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Realizar ejercicios de [microservicios](https://github.com/DanielRuizMed/EjerciciosIV/tree/master/sesison10).

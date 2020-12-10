@@ -52,3 +52,10 @@
 - [X] Entender el concepto de webhook.
 - [X] Aprendizaje sobre AWS, concretamente en el uso de AWS Lambda.
 - [X] Ejercicios sobre [Serverless](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Serverless/serverless.md).
+
+## Semanas décima y undécima
+
+- [X] Investigar sobre el concepto de microservicios.
+- [X] Entender los conceptos ruta, configuración distribuida, middleware y test de integración.
+- [X] Investigar sobre los posibles frameworks de microservicios para ruby.
+- [X] Hacer ejercicios del tema de Microservicios. Se pueden consultar [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Microservicios/microservicios.md).

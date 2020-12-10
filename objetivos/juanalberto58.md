@@ -29,3 +29,14 @@
 - [x] Aprender a construir ficheros Dockerfile para configurar contenedores.
 - [x] Seleccionar que imagen es la más adecuada para el proyecto.
 - [x] Actualizar el repositorio de [Ejercicios de Autoevaluación](https://github.com/juanalberto58/EjerciciosIV).
+
+## Sexta Semana
+
+- [x] Entender el concepto de integración continua y su importancia.
+- [x] Investigar sobre los distintos sistemas de integración continua.
+- [x] Hacer la configuración en Travis y Shippable.
+- [x] Realizar los ejercicios de autoevaluación de [integración continua](https://github.com/juanalberto58/EjerciciosIV).
+
+
+
+

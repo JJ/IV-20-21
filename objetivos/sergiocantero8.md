@@ -48,3 +48,11 @@
 - [X] Aplicar el concepto de DevOps a este tipo específico de plataforma.
 - [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
 - [X] Saber usar alguna plataforma para el despliegue de aplicaciones en la nube como Vercel
+
+## Séptima y octava semana 
+- [X] Realizar los [ejercicios del tema de microservicios](https://github.com/sergiocantero8/IV-Autoevaluacion/blob/main/microservicios.md)
+- [X] Entender qué es un microservicio
+- [X] Comprender conceptos de ruta, middleware y URI
+- [X] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+- [X] Comprender por qué la observabilidad es tan importante en los microservicios
+- [X] Entender qué es un test de integración

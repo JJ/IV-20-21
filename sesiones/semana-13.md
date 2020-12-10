@@ -9,5 +9,5 @@
 
 ## Material de esta semana
 
-- Seguimos con PaaS
+- Seguimos con [PaaS](http://jj.github.io/IV/documentos/temas/PaaS).
 - Hito relacionado con PaaS

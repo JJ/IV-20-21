@@ -56,3 +56,19 @@
 - [x] Entender los casos de uso de la tecnología serverless en el concepto de una aplicación virtual.
 - [x] [Ejercicios realizados del tema 4 - Integración continua](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema4.md).
 - [x] [Ejercicios realizados del tema 5 - Serverless computing](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema5.md).
+
+## Semana 9
+
+- [x] Entender el concepto de webhook.
+- [x] Crear un bot de Telegram en Vercel.
+  - Se puede ver el bot [aquí](https://github.com/rauldpm/InmobilIV_bot_telegram)
+  - Y su explicación [aquí](https://github.com/rauldpm/InmobilIV/blob/master/docs/entrega5/rubrica2.md).
+- [x] Entender como crear un despliegue serverless para el hito número cinco.
+
+## Semana 10
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] [Ejercicios realizados del tema 6 - Microservicios](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema6.md).
+

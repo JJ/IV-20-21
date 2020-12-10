@@ -119,7 +119,7 @@ SKIP: {
     isnt( grep( /.travis.yml/, @repo_files), 0, ".travis.yml presente" );
   }
 
-  if ( $this_hito > 4 ) { # Despliegue en algún lado
+  if ( $this_hito >= 5 ) { # Despliegue en algún lado
     doing("hito 5");
     my $serverless_url = $iv->{'URL'};
     if ( $serverless_url ) {
@@ -136,65 +136,18 @@ SKIP: {
     cmp_ok( $status->res->text, "eq", $serverless_json, "Match de resultado de $serverless_url");
   }
 
-  if ( $this_hito > 5 ) { # Dockerfile y despliegue
-    doing("hito 5");
-    my ($deployment_url) = ($README =~ /(?:[Cc]ontenedor|[Cc]ontainer).+(https?:..\S+)\b/);
-    if ( $deployment_url ) {
-      diag "☑ Detectado URL de despliegue Docker $deployment_url";
-    } else {
-      diag "✗ Problemas detectando URL de despliegue de Docker";
-    }
-    isnt( grep( /Dockerfile/, @repo_files), 0, "Dockerfile presente" );
-
-    my ($dockerhub_url) = ($README =~ m{(https://hub.docker.com/r/\S+)\b});
-    unlike($README, qr/docker\.com\/repository/, "No se usa URL privado en dockerhub");
-    ok($dockerhub_url, "Detectado URL de DockerHub");
-    $dockerhub_url .= "/" if $dockerhub_url !~ m{/$}; # Para evitar redirecciones y errores
-    diag "Detectado URL de Docker Hub '$dockerhub_url'";
-
-    if ( ok( $deployment_url,  "URL de despliegue hito 4") ) {
-    SKIP: {
-	skip "Ya en el hito siguiente", 4 unless $this_hito == 5;
-	$deployment_url = ($deployment_url =~ /status/)?$deployment_url:"$deployment_url/status";
-	my $status = $ua->get( "$deployment_url" );
-	ok( $status->res, "Despliegue hecho en $deployment_url" );
-	my $status_ref = json_from_status( $status );
-	like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-	if ( $dockerhub_url ) {
-	  my $dockerhub = $ua->get("$dockerhub_url/Dockerfile");
-	  is( $dockerhub->res->code, 200, "Dockerfile actualizado en DockerHub");
-	}
-      }
-    }
-  }
-
-   if ( $this_hito > 5 ) { # Despliegue en algún lado
+  if ( $this_hito >= 6 ) { # Dockerfile y despliegue
     doing("hito 6");
-    my ($provision) = ($README =~ /(?:[Pp]rovision:)\s+(\S+)/);
-    isnt( grep( /$provision/, @repo_files ), "Fichero de provisionamiento presente" );
-    
+    my $make_command = $iv->{'make'};
+    if ( $make_command ) {
+      diag "☑ Hallada orden $make_command";
+    } else {
+      diag "✗ Problemas con la orden del fichero de tareas";
+    }
+    ok( $make_command, "URL de despliegue hito 5");
+
   }
 
-  if ( $this_hito > 6 ) { # Despliegue en algún lado
-    doing("hito 7");
-    my ($deployment_url) = ($README =~ /(?:Despliegue final|Final deployment):\s+(\S+)\b/);
-    if ( $deployment_url ) {
-      diag "☑ Detectada IP de despliegue $deployment_url";
-    } else {
-      diag "✗ Problemas detectando IP de despliegue";
-    }
-    unlike( $deployment_url, qr/(heroku|now)/, "Despliegue efectivamente hecho en IaaS" );
-    if ( ok( $deployment_url, "URL de despliegue hito 5") ) {
-      check_ip($deployment_url);
-      my $status = $ua->get("http://$deployment_url/status");
-      ok( $status->res, "Despliegue correcto en $deployment_url/status" );
-      my $status_ref = json_from_status( $status );
-      like ( $status_ref->{'status'}, qr/[Oo][Kk]/, "Status de $deployment_url correcto");
-    }
-    isnt( grep( /Vagrantfile/, @repo_files), 0, "Vagrantfile presente" );
-    isnt( grep( /despliegue|deployment/, @repo_files), 0, "Hay un directorio 'despliegue'" );
-    isnt( grep( m{(despliegue|deployment)/\w+}, @repo_files), 0, "El directorio 'despliegue' no está vacío" );
-  }
 };
 
 done_testing();

@@ -66,3 +66,7 @@
 - [x] Enteder la importancia de los logs para la observabilidad. Me he registrado en Papertrail y he hecho [una prueba](https://github.com/AlexMenor/autoevaluacion-iv/tree/master/microservicios/logging) desde Python.
 - [x] Entender el concepto de ruta, middleware y URI.
 
+# Décima semana
+
+- [x] Usar etcd en un módulo de configuración. [Lo he usado en el proyecto](https://github.com/AlexMenor/que-vemos/blob/master/app/config/config.py)
+- [x] Buscar información sobre mejores prácticas para un microservicio escrito en python en producción. [He leído esto.](https://fastapi.tiangolo.com/deployment/manually/)

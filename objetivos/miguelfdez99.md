@@ -44,7 +44,7 @@
 - [x] Darse de alta en [Netlify](https://app.netlify.com/teams/miguelfdez99/overview)
 - [x] Entender el concepto de webhook 
 - [x] Entender el concepto de continuous delivery 
-- [x] [Ejercicios del tema Serverless](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/serverless.md)
+- [x] Ejercicios del tema [Serverless](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/serverless.md)
 
-
-
+## Decima semana
+- [x] Actualizar objetivos para entregar el hito 5

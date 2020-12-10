@@ -49,3 +49,9 @@
 - [x] Entender bien qué es un webhook
 - [x] Entender bien qué es un servicio serverless y su uso
 - [x] Aprender a desarrollar aplicaciones en la nube
+
+## Objetivos octava semana
+
+- [x] Solucionar problemas hito 5
+- [x] Comenzar hito 6
+- [x] [Ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/serverles.md)

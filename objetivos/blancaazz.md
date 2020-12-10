@@ -115,5 +115,24 @@
 - [x] Ejercicios del tema de [Serverless](https://github.com/blancaazz/Ejercicios-IV)
 
 
+## Novena semana
 
+
+- [x] Entender el concepto de *webhook* con ejemplos
+  como [este](https://docs.github.com/es/free-pro-team@latest/actions/reference/events-that-trigger-workflows#workflow_dispatch) o [aquí](https://github.community/t/triggering-actions-by-other-repository-webhooks/16295/3)
+
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+
+- [x] Entender el concepto de *continuous delivery* o publicación continua.
+
+- [x] Asimilar los diferentes casos de uso para las
+  funciones-como-servicio.
+
+- [x] Darse de alta en [Netlify](https://netlify.com)
+
+- [x] Entender como crear
+  un [despliegue *serverless*](http://jj.github.io/IV/documentos/proyecto/5.Serverless) para
+  el hito número cinco.
+
+- [x] Ejercicios del tema de [Serverless](https://github.com/blancaazz/Ejercicios-IV)
 

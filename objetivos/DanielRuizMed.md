@@ -48,7 +48,7 @@
 - [x] Entender la importancia de los loggers para la observabilidad.
 - [x] Realizar [serverless computing](https://github.com/DanielRuizMed/EjerciciosIV/tree/master/session8-9)
 
-## Novena y décima semana
+## décima y undécima semana
 
 - [x] Entender qué es un test de integración.
 - [x] Entender la importancia de los logs para la observabilidad.

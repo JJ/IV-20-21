@@ -36,7 +36,7 @@
 - [x] Investigar sobre los distintos sistemas de integración continua.
 - [x] Hacer la configuración en Travis y Shippable.
 - [x] Entender la correcta configuración de estos sistemas.
-- [x] Realizar los ejercicios de autoevaluación de [integración continua](https://github.com/juanalberto58/EjerciciosIV).
+- [x] Realizar los ejercicios de autoevaluación de [integración continua](https://github.com/juanalberto58/EjerciciosIV)
 
 
 

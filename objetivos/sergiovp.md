@@ -62,3 +62,13 @@
 - [x] Casos de uso funciones serverless.
 - [x] Comienzo del hito 5.
 - [x] Los ejercicios relativos al hito 5 se pueden consultar en el [repositorio de ejercicios](https://github.com/sergiovp/IV-Ejercicios/blob/main/Sesiones/sesión_hito_5.md)
+
+## Semana del 7 de Diciembre
+
+- [x] Búsqueda de distintos frameworks para el desarrollo del microservicio. (Alternativas al típo Express). 
+- [x] Entender qué es un test de integración o funcionales.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Comienzo del hito número 6.
+- [x] Entender qué es un microservicio.
+- [x] Realización de los ejercicios relativos al hito. Se pueden consultar [aquí](https://github.com/sergiovp/IV-Ejercicios/blob/main/Sesiones/sesi%C3%B3n_hito_6.md) con los respectivos ficheros implementados que podemos consultar [aquí](https://github.com/sergiovp/IV-Ejercicios/tree/main/Sesiones/ficheros_hito_6).

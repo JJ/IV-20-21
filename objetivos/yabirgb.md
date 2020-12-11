@@ -55,3 +55,12 @@
 - [x] Aprender a usar svelte.
 - [x] Conocer como funcionan plataformas como vercel o aws.
 - [x] Conocer como optimizar [aplicaciones serverless](https://medium.com/theburningmonk-com/all-my-posts-on-serverless-aws-lambda-43c17a147f91).
+
+## Semanas del 23 de Noviembre al 7 de Diciembre
+
+- [x] Entender tests de integración.
+- [x] Aprender a usar [etcd](https://github.com/yabirgb/IV-autoevaluacion/tree/master/microservicios) en rust.
+- [x] Aprender a usar traits para abstraer [clases de datos](https://github.com/yabirgb/bukhgalter/blob/hito6/src/models/mod.rs#L10).
+- [x] Buenas prácticas en el diseño del código para APIs.
+- [x] Aprender a hacer logging a un servidor desde python.
+- [x] Conceptos sobre desarrollo asíncrono en Rust orientado a microservicios.

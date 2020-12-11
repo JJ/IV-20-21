@@ -63,3 +63,10 @@
 - [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
 - [x] Entender el concepto de observabilidad.
 [Serverless Computing](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/Serverless.md)
+
+## Objetivos semana 10
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [Ejercicios Microservicios](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/microservicios.md)

@@ -56,3 +56,12 @@
 - [x] Aprender a usar AWS lambda para crear un bot de telegram
 - [x] Entregar el proyecto en la fecha (24/11).
 
+## Semana del 1/12/2020
+- [x] [Realizar los ejercicios propuestos sobre microservicios](https://github.com/mariasanzs/EjerciciosIV/blob/master/hito6/autoevaluacionHito6.md#enlaces-a-los-ejercicios).
+- [x] Conocer como el conceptos tales como framework, middleware y herramientas tales como Sinatra y Rack
+- [x] Aprender a crear rutas con Sinatra y hacer un diseño simple de una API
+- [x] Aprender más sobre estados, peticiones y manejo de estas.
+- [x] Conocer buenas prácticas durante el desarrollo de un microservicio
+- [x] Conocer como como crear un despliegue serverless
+- [x] Entregar el proyecto en la fecha (13/12).
+

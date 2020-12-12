@@ -71,3 +71,16 @@
 - [X] Entender como crear un despliegue serverless
 - [X] Entender la importancia de los loggers
 - [X] Realizados los [ejercicios del tema Serverless](https://github.com/antoniorev/EjerciciosIV/tree/main/Milestone5)
+
+
+# Semanas del 24 de noviembre y 1 de diciembre
+
+## Objetivos cumplidos esta semana
+
+- [X] Entender qué es un Microservicio.
+- [X] Entender qué es un test de integración.
+- [X] Entender el concepto de ruta, middleware y URI.
+- [X] Entender la importancia de los logs para la observabilidad.
+- [X] Usar código de errores en mi aplicación
+- [X] Aprender express como framework de aplicaciones web
+- [X] Realizados los [ejercicios del tema Microservicios](https://github.com/antoniorev/EjerciciosIV/tree/main/H6)

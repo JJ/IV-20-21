@@ -53,4 +53,4 @@
 | VEGA PALMA, LEANDRO| | |
 | VELA PELEGRINA, SERGIO| | |
 | VICTORIA MOHAMED, JAVIER| | |
-| YE , BATE|[DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v3.1.1|
+| YE , BATE| | |

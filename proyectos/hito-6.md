@@ -15,7 +15,7 @@
 | GARCIA CASTILLO, ANTONIO| | |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.6.1 |
 | GARCIA MARTINEZ, DAVID| | |
-| GONZALEZ ARGUDO, VICTOR JOSE| | | |
+| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.6.1 | 
 | HEREDIA CORTES, DAVID| | |
 | HERNANDEZ MORENO, DIEGO| [Order'n'Go](https://github.com/LCinder/Order-n-Go) | v3.1.9 |
 | HIDALGO CARMONA, MANUEL| | |

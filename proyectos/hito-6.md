@@ -15,9 +15,9 @@
 | GARCIA CASTILLO, ANTONIO| | |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.6.1 |
 | GARCIA MARTINEZ, DAVID| | |
-| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.6.1 | 
+| GONZALEZ ARGUDO, VICTOR JOSE| | | |
 | HEREDIA CORTES, DAVID| | |
-| HERNANDEZ MORENO, DIEGO| [Order'n'Go](https://github.com/LCinder/Order-n-Go) | v3.0.2 |
+| HERNANDEZ MORENO, DIEGO| | |
 | HIDALGO CARMONA, MANUEL| | |
 | IZQUIERDO GARCIA,ANGELA| | |
 | LEJARRAGA RUBIO, ALBERTO| | |
@@ -43,7 +43,7 @@
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
-| RUIZ MEDINA, DANIEL| [PAndemiun](https://github.com/DanielRuizMed/PAndemium) | v0.6.2 |
+| RUIZ MEDINA, DANIEL| | |
 | SANZ SANCHEZ, MARIA| | |
 | SOLERA LINARES, SARA| | |
 | STETSKIY , NIKITA| | |
@@ -53,4 +53,4 @@
 | VEGA PALMA, LEANDRO| | |
 | VELA PELEGRINA, SERGIO| | |
 | VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.6.0 |
-| YE , BATE|[DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate) | v3.1.1|
+| YE , BATE| | |

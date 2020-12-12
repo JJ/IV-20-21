@@ -15,7 +15,7 @@
 | GARCIA CASTILLO, ANTONIO| | |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.6.1 |
 | GARCIA MARTINEZ, DAVID| | |
-| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.6.1 | 
+| GONZALEZ ARGUDO, VICTOR JOSE| | | |
 | HEREDIA CORTES, DAVID| | |
 | HERNANDEZ MORENO, DIEGO| | |
 | HIDALGO CARMONA, MANUEL| | |
@@ -30,7 +30,7 @@
 | MOLINERO CASTILLO, JONATHAN| | |
 | MONTESINOS PERUJO, ISMAEL| | |
 | MORENO VILCHEZ, FRANCISCO JOSE| | |
-| NUÑEZ RUIZ, MANUEL JESUS| | |
+| NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | v6.0.0 | 
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| | |
 | PEREZ MENDEZ, PABLO| | |
@@ -44,8 +44,8 @@
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
 | RUIZ MEDINA, DANIEL| | |
-| SANZ SANCHEZ, MARIA| | |
-| SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | V6.0.5|
+| SANZ SANCHEZ, MARIA|[makeupIV](https://github.com/mariasanzs/makeupIV) | v1.6.1 |
+| SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | V6.0.5 |
 | STETSKIY , NIKITA| | |
 | TORRES BAREA, FRANCISCO JAVIER| | |
 | TORRES CEBALLOS, ALBERTO JESUS| | |

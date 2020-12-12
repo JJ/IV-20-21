@@ -44,7 +44,7 @@
 | RUIZ FERNANDEZ, TOMAS| | |
 | RUIZ GARCIA, PAULA| | |
 | RUIZ MEDINA, DANIEL| | |
-| SANZ SANCHEZ, MARIA| | |
+| SANZ SANCHEZ, MARIA|[makeupIV](https://github.com/mariasanzs/makeupIV) | v1.6.0 |
 | SOLERA LINARES, SARA| | |
 | STETSKIY , NIKITA| | |
 | TORRES BAREA, FRANCISCO JAVIER| | |

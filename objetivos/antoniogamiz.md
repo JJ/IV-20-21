@@ -66,6 +66,8 @@
 
 ## Semana 9, 10
 
+[Ejercicios de autoevaluación](https://github.com/antoniogamiz/iv-autoevaluacion#hito-6)
+
 - [ ] Buscar alguna solución al problema de que no existe cliente de `etcd` en Deno.
 - [x] Instalar y configurar `etcd` para probarlo en mi aplicación.
 - [x] Reescribir mi aplicación usando Clean Architecture.

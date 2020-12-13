@@ -9,7 +9,7 @@
 | COCA CRUZ, SIXTO| | |
 | CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | 1.5.1|
 | DEL POZO MORENO, RAUL| [InmobilIV](https://github.com/rauldpm/InmobilIV)| v5.0.0 |
-| FERNANDEZ TORRALBO, MIGUEL ANGEL| [MyOutlet](https://github.com/miguelfdez99/MyOutlet) | v5.0.1 |
+| FERNANDEZ TORRALBO, MIGUEL ANGEL| [MyOutlet](https://github.com/miguelfdez99/MyOutlet) | v5.0.2 **Reenvío** |
 | GAMIZ DELGADO, ANTONIO | [MangaAPI](https://github.com/antoniogamiz/manga-api)  | v1.0.2 |
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v6.0.1 |
 | GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin)  | v1.0.6 **Reenvío** |

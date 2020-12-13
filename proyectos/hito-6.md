@@ -17,7 +17,7 @@
 | GARCIA MARTINEZ, DAVID| | |
 | GONZALEZ ARGUDO, VICTOR JOSE| | | |
 | HEREDIA CORTES, DAVID| | |
-| HERNANDEZ MORENO, DIEGO| [Order'n'Go](https://github.com/LCinder/Order-n-Go) | v3.0.4 |
+| HERNANDEZ MORENO, DIEGO| [Order'n'Go](https://github.com/LCinder/Order-n-Go) | v3.0.5 |
 | HIDALGO CARMONA, MANUEL| | |
 | IZQUIERDO GARCIA,ANGELA| | |
 | LEJARRAGA RUBIO, ALBERTO| | |

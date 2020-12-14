@@ -58,3 +58,12 @@ Repositorio con los ejercicios de autoevaluación [aquí](https://github.com/Ele
 - [x] 'Functions as a Service' 
 - [x] Cómo va Vercel y Netlify 
 
+## Semana 7, 8, 9
+
+[Ejercicios de autoevaluación](https://github.com/ElenaMerelo/iv-autoevaluacion#hito-6)
+
+- [x] Aprender a usar etcd
+- [x] Aprender el concepto de microservicio
+- [x] Usar variables de entorno para cargar la configuración
+- [x] Mirar buenas prácticas sobre cómo hacer las rutas de una API.
+

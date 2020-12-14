@@ -51,3 +51,10 @@
 - [X] Entender, documentar y desplegar función en vercel.
 - [X] Entender, documentar y desplegar función en firebase.
 - [X] Creat bot de telegram con webhooks y firebase.
+
+## Séptima semana
+
+. [X] Entendido qué son los test de intebración.
+. [X] Entender el uso de logs para trazar el código.
+. [X] Entender el uso de middleware y su importancia.
+. [X] Realizar los ejercicios de [microservicios](https://github.com/XDavid1999/Exercises/tree/master/Ejercicios/ejercicio1-serverless).

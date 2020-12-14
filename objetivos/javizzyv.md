@@ -57,3 +57,11 @@
 - [x] Darse de alta en Netlify.
 - [x] Entender como crear un despliegue serverless para el hito número cinco.
 - [x] Ejercicios [Serverless][https://github.com/javizzyv/EjerciciosIV/blob/master/Ejercicios/Tema4.md]
+
+## Microservicios
+
+- [x] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+- [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [x] Entender el concepto de middleware en microservicios.
+- [x] Entender el concepto de ruta.
+- [x] [Ejercicios](https://github.com/javizzyv/EjerciciosIV/blob/master/Ejercicios/Tema5.md)

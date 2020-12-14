@@ -57,3 +57,17 @@
 - [x] Probar diferentes plataformas de despliegue de proyectos, comprobar diferencias, diferentes usos, etc.
 - [x] Entender cómo una API puede suministrar los datos a una aplicación y los diferentes tips de funciones que pueden existir, prestando atención a opciones como *module.exports,* archivos *.json,* etc.
 - [x] Realizar los [ejercicios del tema de serverless](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%205%20-%20Serverless/ejerciciosTema5.md)
+
+
+
+---
+
+## Semana 13: 10/12
+- [x] Entender qué es un microservicio
+- [x] Probar diferentes *frameworks* de microservicios, como *express* y entender para qué sirven
+- [x] Aprender a crear rutas en un microservicio con un *framework*
+- [x] Elegir entre varios *frameworks* de microservicios atendiendo a diferentes necesidades
+- [x] Utilizar gestores de procesos
+- [x] Realizar peticiones tanto *GET* como *POST* o *PUT* pasando por url parámetros y aprender a manejarlos
+- [x] Aprender a *testear* un microservicio antes del despliegue 
+- [x] Realizar los [ejercicios del tema 6 - microservicios](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%206%20-%20Microservicios/ejerciciosTema6.md)

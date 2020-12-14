@@ -52,3 +52,10 @@
 - [x] Usar parámetros en funciones serverless.
 - [x] Entender como crear un despliegue serverless.
 - [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%206%20-%20Serverless#ejercicio-1) del tema sobre Serverless. 
+
+ ## Séptima semana
+ - [x] Comparar diferentes frameworks para JavaScript.
+ - [x] Entiendo el concepto de microservicio.
+ - [x] Entender diseño de rutas.
+ - [x] Entender el concepto de middleware.
+ - [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%20microservicios) del tema sobre microservicios. 

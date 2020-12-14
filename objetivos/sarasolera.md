@@ -38,3 +38,10 @@
 - [x] He realizado los [ejercicios](https://github.com/sarasolera/ejerciciosIV/blob/main/ejercicios_serverless.md)
 - [x] He usado ngrok haciendo algunos ejemplos en azure.
 - [x] He entendido un poco más la estructura HTTP y características de sus peticiones 
+
+## Semana 8 Diciembre
+- [x] Aprender a usar un framework
+- [x] Probar Express 
+- [x] Realizar los [ejercicios correspondientes](https://github.com/sarasolera/ejerciciosIV)
+- [x] Entender el concepto de microservicio
+- [x] Entender el concepto de middleware, de ruta y por qué son necesarios los log

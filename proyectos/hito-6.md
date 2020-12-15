@@ -26,7 +26,7 @@
 | MARTIN LEON, ANTONIO| | |
 | MENOR MOLINERO, ALEJANDRO| [que-vemos](https://github.com/AlexMenor/que-vemos) | v1.0.8 |
 | MERELO MOLINA, CECILIA| | |
-| MERELO MOLINA, ELENA| [goFit](https://github.com/ElenaMerelo/goFit)  | v1.0.3 |
+| MERELO MOLINA, ELENA| [goFit](https://github.com/ElenaMerelo/goFit)  | v1.0.4 |
 | MOLINERO CASTILLO, JONATHAN| | |
 | MONTESINOS PERUJO, ISMAEL| | |
 | MORENO VILCHEZ, FRANCISCO JOSE| | |

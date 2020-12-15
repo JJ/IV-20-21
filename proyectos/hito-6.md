@@ -8,7 +8,7 @@
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| [GameStore](https://github.com/biilal1999/GameStore) | v6.0.3 |
 | COCA CRUZ, SIXTO| | |
 | CUADROS LAPRESTA, ANTONIO| [WhenToClass](https://github.com/antoniocuadros/WhenToClass) | v1.6.6 | 
-| DEL POZO MORENO, RAUL| | |
+| DEL POZO MORENO, RAUL| [InmobilIV](https://github.com/rauldpm/InmobilIV)| v6.0.2 |
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
 | GAMIZ DELGADO, ANTONIO | | |
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v7.0.3 |

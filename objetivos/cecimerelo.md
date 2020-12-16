@@ -69,3 +69,12 @@
 - [x] Entender como crear un despliegue serverless.
 - [x] Entender la importancia de los loggers para la observabilidad.
 - [x] Ejercicios de [autoevaluación](https://github.com/cecimerelo/EjerciciosIV/blob/main/ejercicios/serverless.md)
+
+## Semana 10
+
+- [x] Elegir un framework para el microservicio.
+- [x] Diseñar la API y sus rutas.
+- [x] Avanzar el proyecto lo máximo posible.
+- [x] Usar tests.
+- [ ] Entregar a tiempo.
+- [x] Pasarlo bien.

@@ -72,9 +72,10 @@
 
 ## Semana 10
 
-- [x] Elegir un framework para el microservicio, en mi caso, [Restify](http://restify.com/.
+- [x] Elegir un framework para el microservicio.
 - [x] Diseñar la API y sus rutas.
 - [x] Avanzar el proyecto lo máximo posible.
 - [x] Usar tests.
 - [ ] Entregar a tiempo.
 - [x] Pasarlo bien.
+- [ ] Hacer ejercicios de [autoevaluación](https://github.com/cecimerelo/EjerciciosIV)

@@ -64,4 +64,15 @@
 - [x] Entender la importancia de los loggers para la observabilidad.
 - [x] [Autoevaluación](https://github.com/WolfYe98/Ejercicios_IV/tree/master/Serverless)
 
+## Semana 10-11:
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Entender el concepto de ruta.
+- [x] Entender el concepto de middleware.
+- [x] Comprender el concepto de clases controladoras, esenciales al concepto de "única fuente de verdad", y cómo se desacoplan los microservicios del resto.
+- [x] Entender el concepto de inyección de dependencias y single source of truth.
+- [x] Tests de integración.
+- [x] [Autoevaluación](https://github.com/WolfYe98/Ejercicios_IV/tree/master/Microservicios/ETCD)
+
 [Aquí están los ejercicios de autoevaluación](https://github.com/WolfYe98/Ejercicios_IV)

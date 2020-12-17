@@ -41,3 +41,24 @@
 - [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema4.md) del tema de Integración Continua.
+
+## Objetivos Semana 7
+
+- [x] Entender los diferentes niveles de abstracción que llevan a construir una aplicación para la nube.
+- [x] Entender la importancia de los sistemas de configuración distribuida y su utilidad en despliegues en la nube.
+- [x] Entender cómo funciona la inyección de dependencias (o algo por el estilo).
+- [x] Entender la importancia de los sistemas de log.
+
+## Objetivos Semana 8
+
+- [x] Entender el concepto de serverless y su uso en entornos cloud.
+- [x] Entender los posibles casos de uso.
+
+## Objetivos Semana 9
+
+- [x] Entender el concepto de webhook.
+- [x] Entender el manejo de los productos cloud de diferentes empresas.
+- [x] Entender el concepto de continuous delivery o publicación continua.
+- [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
+- [x] Entender el concepto de observabilidad.
+- [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema5.md) del tema de Serverless.

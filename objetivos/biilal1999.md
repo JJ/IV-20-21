@@ -83,3 +83,20 @@
 - [x] Adquirir conocimientos del lenguaje **Node**
 - [x] Aprender a integrar una función serverless con un **bot de Telegram**
 - [x] Entender como funciona una función *Handler*
+
+
+## Séptima semana
+
+- [x] Realizar el [ejercicio 1](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio1.md) del tema de *Microservicios*
+- [x] Realizar el [ejercicio 2](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio2.md) del tema de *Microservicios*
+- [x] Realizar el [ejercicio 3](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio3.md) del tema de *Microservicios*
+- [x] Realizar el [ejercicio 4](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio4.md) del tema de *Microservicios*
+- [x] Entender el concepto de **Microservicio**
+- [x] Entender qué es un **framework** y saber diferenciar entre las características de cada uno
+- [x] Aprender a manejar **Sinatra**
+- [x] Adquirir destreza en el tema de las rutas **GET**, **POST**, **PUT** y **DELETE**
+- [x] Entender los estados del protocolo **HTTP**
+- [x] Aprender el concepto de **test de integración**
+- [x] Entender el concepto de **Middleware**
+- [x] Aprender a crear un **logger** manualmente
+- [x] Entender el concepto de **configuración distribuidad**

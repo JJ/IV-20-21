@@ -79,3 +79,12 @@ sobre todo el parámetro -v
 funciones y acceder a ellas mediante un endpoint.
 - [x] Hacer los [3 ejercicios del tema](https://github.com/guillelpnz/Ejercicios/blob/master/Serverless/serverless.md)
 - [x] Aprender node para desplegar una función en Netlify
+
+## Septima semana
+
+- [x] Entender lo que es un microservicio y cómo pueden testearse siguiendo
+buenas prácticas, como por ejemplo usando middleware.
+
+- [x] Aprender el funcionamiento de los paquetes net/http y net/httptest en Go
+
+- [x] Hacer los [4 ejercicios del tema](https://github.com/guillelpnz/Ejercicios/blob/master/microservicios/microservicios.md)

@@ -49,4 +49,13 @@
 - [x] Saber aplicar diferentes tecnologías relacionadas con la virtualización al diseño de aplicaciones en infraestructura virtual: DevOps, contenedores, microservicios, serverless, integración y despliegue continuo y saber aplicarlos en la definición por software de la infraestructura y despliegue de una aplicación.
 - [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s8.md) de la semana correspondiente.
 
+## Decima semana
+
+- [x] Conocer concepto de microservicio.
+- [x] Uso de frameworks.
+- [x] Uso de gestores de procesos.
+- [x] Entender uso y diferencia de GET, POST y PUT.
+- [x] Realización de tests sobre microservicios.
+- [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s10.md) de la semana correspondiente.
+
 

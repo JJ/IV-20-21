@@ -55,3 +55,11 @@
 - [x] Solucionar problemas hito 5
 - [x] Comenzar hito 6
 - [x] [Ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/serverles.md)
+
+
+## Objetivos novena semana
+
+- [x] Estudiar los test de integración y entenderlos bien
+- [x] Hacer los [ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/microservicios.md)
+- [x] Entender el concepto de middleware
+- [x] Entender la importancia de la única fuente de verdad en la programación

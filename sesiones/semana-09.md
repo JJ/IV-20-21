@@ -51,4 +51,4 @@ computing en la práctica.
 
 ## Siguiente semana
 
-[Novena semana](semana-09.md).
+[Décima semana](semana-10.md).

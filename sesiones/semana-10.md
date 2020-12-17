@@ -26,3 +26,7 @@
 - Práctica:
   [Hito 6](http://jj.github.io/IV/documentos/proyecto/6.Microservicio),
   que habrá que entregar el **11 de diciembre** a las 23:59 horas.
+
+## Siguiente semana
+
+[Undécima semana](semana-11.md).

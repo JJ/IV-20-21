@@ -52,3 +52,11 @@
 - [x] Aprender a crear un bot de Telegram.
 - [x] Utilizar diversas plataformas
 - [x] Realizar los [ejercicios propuestos.](https://github.com/irenecj/ejercicios-autoevaluacion-IV/blob/main/TEMA5/ejerciciosIV-Tema5.md)
+
+## Décima semana
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Aprender a usar Koa como framework.
+- [x] Testear todo el código implementado.
+- [x] Realizar los [ejercicios propuestos.](https://github.com/irenecj/ejercicios-autoevaluacion-IV/blob/main/TEMA6/ejerciciosIV-Tema6.md)

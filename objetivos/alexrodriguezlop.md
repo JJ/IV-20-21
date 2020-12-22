@@ -54,3 +54,12 @@
 - [X] He Aprendido prácticas seguras en el desarrollo de aplicaciones en la nube.
 - [x] He comprendido mejor REST.
 - [X] He realizado los [ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana9).
+
+## Semana 8 Diciembre
+- [x] Aprender a usar un framework
+- [x] Entender el concepto de microservicio
+- [x] Entender el concepto de middleware, de ruta
+- [x] Entender por qué son necesarios los log
+- [x] Comparar diversos frameworks
+- [x] He realizado los [ejercicios](https://github.com/alexrodriguezlop/EjerciciosIV2021/tree/master/Semana10).
+

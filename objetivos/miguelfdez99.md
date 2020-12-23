@@ -48,3 +48,10 @@
 
 ## Decima semana
 - [x] Actualizar objetivos para entregar el hito 5
+
+## Undécima y duodécima semana
+- [x] Entender los test de integración
+- [x] Entender para que sirven los logs
+- [x] Entender los conceptos de middleware y URI
+- [x] Aprender a usar Express
+- [x] Realizar los ejercicios sobre [microservicios](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/microservicios.md)

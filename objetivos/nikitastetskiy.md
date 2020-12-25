@@ -49,3 +49,9 @@
 -   [x] Aprender como funcionan los webhooks y el bot de telegram.
 -   [x] Comenzar con el hito 6.
 -   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/blob/master/tema%205/README.md).
+
+## Octava semana
+
+-   [x] He conocido los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+-   [x] He usado frameworks, middlewares y logs.
+-   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/tree/master/tema%206).

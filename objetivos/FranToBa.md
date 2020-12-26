@@ -56,6 +56,9 @@
 - [x] Uso de gestores de procesos.
 - [x] Entender uso y diferencia de GET, POST, PUT y DELETE.
 - [x] Realización de tests sobre microservicios.
+- [x] Repositorio de [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV)
 - [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s10.md) de la semana correspondiente.
+
+
 
 

@@ -135,3 +135,21 @@
 - [X] Entender la importancia de los loggers para la observabilidad.
 
 - [X] Realizar [ejercicios de autoevalución](https://github.com/Davidspace/Ejercicios_IV/tree/main/Serverless%20computing) del tema de Serverless computing.
+
+## Décima y undécima semana
+
+- [X] Entender qué es un test de integración.
+
+- [X] Entender la importancia de los logs para la observabilidad.
+
+- [X] Entender el concepto de ruta, middleware y URI.
+
+- [X] Comprender el concepto de clases controladoras, esenciales al concepto de "única fuente de verdad", y cómo se desacoplan los microservicios del resto.
+
+- [X] Entender el concepto de inyección de dependencias y single source of truth.
+
+- [X] Desarrollar una API.
+
+- [X] Desarrollar una clase manejadora de datos.
+
+- [X] [Autoevaluación](https://github.com/Davidspace/Ejercicios_IV/tree/main/Microservicios). El resto de ejercicios están realizados en el propio proyecto.

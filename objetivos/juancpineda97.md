@@ -62,3 +62,7 @@
 - [x] Asimilar los diferentes casos de uso para las funciones-como-servicio.
 - [x] Entender el concepto de observabilidad.
 - [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema5.md) del tema de Serverless.
+- [x] Darse de alta en [Netlify.](https://netlify.com/)
+- [x] [Crear un bot de Telegram en Vercel](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
+- [x] [Usando parámetros en funciones serverless](http://jj.github.io/IV/documentos/temas/Serverless#usando-par%C3%A1metros)
+- [x] Entender como crear un [despliegue serverless](http://jj.github.io/IV/documentos/proyecto/5.Serverless) para el hito número cinco.

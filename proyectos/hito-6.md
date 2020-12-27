@@ -47,7 +47,7 @@
 | SANZ SANCHEZ, MARIA|[makeupIV](https://github.com/mariasanzs/makeupIV) | v1.6.1 |
 | SOLERA LINARES, SARA| [proyectoSeries](https://github.com/sarasolera/proyectoSeries) | V6.0.6 |
 | STETSKIY , NIKITA| [Micro-Calendario](https://github.com/nikitastetskiy/micro-calendario) | v6.0.2 |
-| TORRES BAREA, FRANCISCO JAVIER| [CloudFood](https://github.com/FranToBa/CloudFood)  | v6.0.1 |
+| TORRES BAREA, FRANCISCO JAVIER| [CloudFood](https://github.com/FranToBa/CloudFood)  | v6.0.2 **Reenvío** |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |

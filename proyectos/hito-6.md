@@ -14,7 +14,7 @@
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v7.0.3 |
 | GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.10.0 |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.6.1 |
-| GARCIA MARTINEZ, DAVID| [AroundTheWorld](https://github.com/Davidspace/AroundTheWorld) | v6.0.4 |
+| GARCIA MARTINEZ, DAVID| [AroundTheWorld](https://github.com/Davidspace/AroundTheWorld) | v6.0.5 |
 | HEREDIA CORTES, DAVID| [PacketService](https://github.com/XDavid1999/PacketService) | v0.6.6 |
 | GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.6.2 **Reenvío** | 
 | HERNANDEZ MORENO, DIEGO| [Order'n'Go](https://github.com/LCinder/Order-n-Go) | v3.2.0 **Reenvío** |

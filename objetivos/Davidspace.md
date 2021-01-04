@@ -152,4 +152,8 @@
 
 - [X] Desarrollar una clase manejadora de datos.
 
+- [X] Incluir configuración distribuida en mi API.
+
+- [X] Añadir una justificación técnica a la elección del framework web.
+
 - [X] [Autoevaluación](https://github.com/Davidspace/Ejercicios_IV/tree/main/Microservicios). El resto de ejercicios están realizados en el propio proyecto.

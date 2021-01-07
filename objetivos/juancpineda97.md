@@ -66,3 +66,10 @@
 - [x] [Crear un bot de Telegram en Vercel](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
 - [x] [Usando parámetros en funciones serverless](http://jj.github.io/IV/documentos/temas/Serverless#usando-par%C3%A1metros)
 - [x] Entender como crear un [despliegue serverless](http://jj.github.io/IV/documentos/proyecto/5.Serverless) para el hito número cinco.
+
+## Objetivos Semana 10
+
+- [x] Entender qué es un test de integración.
+- [x] Entender la importancia de los logs para la observabilidad.
+- [x] Entender el concepto de ruta, middleware y URI.
+- [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema6.md) del tema de Microservicios.

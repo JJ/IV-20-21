@@ -56,3 +56,13 @@
 - [X] Comprender las mejores prácticas para tener persistencia en nuestra aplicación.
 - [X] Entender y aplicar el concepto de middleware para implementar por ejemplo un logger.
 - [X] Realizar los [ejercicios de autoevaluación](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_Microservicios/ejercicios.md)
+
+## Última semana
+- [X] Entender que es PaaS y sus mejores prácticas así como ejemplos de proveedores.
+- [X] Comprender la necesidad de utilizar gestores de procesos.
+- [X] Aprender a utilizar bases de datos en la nube como MongoDB Atlas.
+- [X] Comprender como trabaja Heroku con Ruby.
+- [X] Comprender el funcionamiento de PM2 y Foreman.
+- [X] Comprender el uso de stubs y mocks.
+- [X] Aprender a utilizar el CLI de Heroku.
+- [X] Realizar los [ejercicios de autoevaluación](https://github.com/antoniocuadros/ejercicios-apuntes-IV/blob/master/Ejercicios/Tema_PaaS/ejercicios.md).

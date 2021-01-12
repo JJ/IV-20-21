@@ -72,3 +72,17 @@
 - [x] Entender el concepto de ruta, middleware y URI.
 - [x] [Ejercicios realizados del tema 6 - Microservicios](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema6.md).
 
+## Semana 11
+
+- [x] [Entender el diseño de rutas en este ejemplo](https://github.com/JJ/node-app-cc/blob/master/lib/index.js).
+- [x] Reforzar entendimiento [Tests de integración](http://jj.github.io/IV/documentos/temas/Microservicios#probando-nuestra-aplicaci%C3%B3n-en-la-nube).
+
+## Semana 13
+
+- [x] Entender el concepto de plataforma como servicio.
+
+## Semana 14
+
+- [x] Entender la arquitectura de aplicaciones en plataformas-como-servicio.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware.
+- [x] [Ejercicios realizados del tema 7 - PaaS](https://github.com/rauldpm/Ejercicios-IV-20-21/blob/main/docs/tema7.md).

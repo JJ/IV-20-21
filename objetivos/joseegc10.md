@@ -59,3 +59,11 @@
 - [X] Entender los conceptos ruta, configuración distribuida, middleware y test de integración.
 - [X] Investigar sobre los posibles frameworks de microservicios para ruby.
 - [X] Hacer ejercicios del tema de Microservicios. Se pueden consultar [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20Microservicios/microservicios.md).
+
+## Última semana
+
+- [X] Entender que es un PaaS y conocer sus servicios más comunes.
+- [X] Investigar sobre el concepto de gestor de procesos y conocer los más comunes para ruby.
+- [X] Aprender a usar el CLI de Heroku.
+- [X] Entender el funcionamiento de la base de datos en la nube de Firebase.
+- [X] Hacer los ejercicios de autoevaluación del tema de PaaS. Se pueden consultar [aquí](https://github.com/joseegc10/ejercicios-IV/blob/master/Tema%20PaaS/PaaS.md).

@@ -12,7 +12,7 @@
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| | |
 | GAMIZ DELGADO, ANTONIO | | |
 | GARCIA BENCHAKHTIR, YABIR| | |
-| GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.10.0 |
+| GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.10.1 |
 | GARCIA COLLADO, JOSE ALBERTO| | |
 | GARCIA MARTINEZ, DAVID| | |
 | HEREDIA CORTES, DAVID| | |

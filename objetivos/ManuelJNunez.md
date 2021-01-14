@@ -89,4 +89,5 @@
 - [x] Entender la arquitectura de aplicaciones en plataformas-como-servicio.
 - [x] Conocer los servicios más comunes.
 - [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
-- [x] Aprende sobre [docker-compose](https://docs.docker.com/compose/).
+- [x] Aprender sobre [docker-compose](https://docs.docker.com/compose/).
+- [x] Ejercicios PaaS en [autoevaluacionIV]().

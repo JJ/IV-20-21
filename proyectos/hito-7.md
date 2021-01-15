@@ -16,7 +16,7 @@
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.7.8 |
 | GARCIA MARTINEZ, DAVID| | |
 | HEREDIA CORTES, DAVID| | |
-| GONZALEZ ARGUDO, VICTOR JOSE| [AnimeFLV-API](https://github.com/ByteVictor/AnimeFLV-API) | v0.7.1 | 
+| GONZALEZ ARGUDO, VICTOR JOSE| | |
 | HERNANDEZ MORENO, DIEGO| | |
 | HIDALGO CARMONA, MANUEL| | |
 | IZQUIERDO GARCIA,ANGELA| | |

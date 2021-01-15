@@ -11,10 +11,12 @@ use Git;
 use Mojo::UserAgent;
 use File::Slurper qw(read_text);
 use JSON;
+use JSON::XS;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
 use YAML qw(LoadFile);
 use IO::Socket::SSL;
+use Scalar::Util qw(looks_like_number);
 
 use v5.14; # For say
 
@@ -163,20 +165,27 @@ SKIP: {
     my $payload = $recurso->{'payload'};
     is( ref $payload, "HASH", "Payload debe ser un hash, no un array" );
     my $response;
+    if ( $url_PaaS =~ m{/$} ) {
+      chop( $url_PaaS );
+    }
     my $prefix = $url_PaaS."/".$recurso->{'nombre'};
+    my $jsoner = new JSON::XS;
     if ( $metodo eq 'PUT' ) {
       ok( $recurso->{'IDs'}, "Se incluyen las IDs de los recursos enviados o devueltos" );
       for my $id ( @{$recurso->{'IDs'}} ) {
         my $URI = "$prefix/$id";
         $response = $ua->put( $URI => json => $payload );
-        is( $response->res->code, 200, "Respuesta a la petición $metodo sobre $URI es correcta");
+        is( $response->res->code, 201, "Respuesta a la petición $metodo sobre $URI es correcta");
         ok( $response->headers->Location, '$response->headers->Location tiene el valor correcto' );
       }
     } else {
+      my $json = $jsoner->encode( force_numbers($payload) );
       for (my $i = 0; $i <= 3; $i ++ ) {
-        $response = $ua->post( $prefix => form => $payload );
-        is( $response->res->code, 200, "Respuesta a la petición $metodo sobre $prefix es correcta");
-        ok( $response->headers->Location, '$response->headers->Location tiene el valor correcto' );
+        $response = $ua->post( $prefix => $json );
+        is( $response->res->code, 201, "Respuesta a la petición $metodo sobre $prefix es correcta");
+        my $location = $response->res->headers->location;
+        ok( $location, '$response->headers->Location tiene el valor correcto' );
+        is( $ua->get($url_PaaS.$location)->res->code, 200, "Se puede bajar el creado $i" );
       }
     }
   }
@@ -281,3 +290,24 @@ sub json_from_status {
   say "Body → $body";
   return from_json( $body );
 }
+
+sub force_numbers
+{  
+    if (ref $_[0] eq "") {
+      if ( looks_like_number($_[0]) ) {
+        $_[0] += 0;
+      } elsif ( $_[0] =~ /true|false/ ) {
+        if ($_[0] eq 'true' ) {
+          $_[0] = \1;
+        } else {
+          $_[0] = \0;
+        }
+      }
+    } elsif ( ref $_[0] eq 'ARRAY' ){
+        force_numbers($_) for @{$_[0]};
+    } elsif ( ref $_[0] eq 'HASH' ) {
+        force_numbers($_) for values %{$_[0]};
+    }   
+
+    return $_[0];
+} 

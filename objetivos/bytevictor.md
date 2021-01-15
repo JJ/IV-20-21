@@ -55,7 +55,7 @@
 - [x] He aprendido a utilizar y configurar Netlify
 - [x] He comprendido para que sirve un sistema serverless
 
-## Décima semana 
+## Décima y Undécima semana 
 
 - [x] He realizado los ejercicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/H6/README.md
 - [x] He aprendido a usar la herramienta etcd y para que sirve. 
@@ -63,3 +63,10 @@
 - [x] He aprendido a hacer tests sobre una API rest 
 - [x] He mejorado mi comprensión sobre las peticiones HTTP 
 - [x] He aprendido a crear una API rest con express
+
+## Duodécima semana 
+
+- [x] He realizado los ejercicios del hito: https://github.com/bytevictor/EjerciciosIV/blob/master/H7/README.md
+- He aprendido a usar Heroku
+- He aprendido lo que es y como montar un PaaS (Project as a Service)
+- He mejorado en el uso de la herramienta Grunt

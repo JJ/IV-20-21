@@ -14,6 +14,7 @@ use JSON;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
 use YAML qw(LoadFile);
+use IO::Socket::SSL;
 
 use v5.14; # For say
 
@@ -160,15 +161,24 @@ SKIP: {
     my $metodo = $recurso->{'metodo'};
     like( $metodo, qr/PUT|POST/, "Método $metodo correcto" );
     my $payload = $recurso->{'payload'};
+    is( ref $payload, "HASH", "Payload debe ser un hash, no un array" );
     my $response;
+    my $prefix = $url_PaaS."/".$recurso->{'nombre'};
     if ( $metodo eq 'PUT' ) {
-      $response = $ua->put( $url_PaaS."/".recurso => json => $payload );
+      ok( $recurso->{'IDs'}, "Se incluyen las IDs de los recursos enviados o devueltos" );
+      for my $id ( @{$recurso->{'IDs'}} ) {
+        my $URI = "$prefix/$id";
+        $response = $ua->put( $URI => json => $payload );
+        is( $response->res->code, 200, "Respuesta a la petición $metodo sobre $URI es correcta");
+        ok( $response->headers->Location, '$response->headers->Location tiene el valor correcto' );
+      }
     } else {
-      $response = $ua->post( $url_PaaS."/".recurso => form => $payload );
+      for (my $i = 0; $i <= 3; $i ++ ) {
+        $response = $ua->post( $prefix => form => $payload );
+        is( $response->res->code, 200, "Respuesta a la petición $metodo sobre $prefix es correcta");
+        ok( $response->headers->Location, '$response->headers->Location tiene el valor correcto' );
+      }
     }
-    say to_json $response;
-    is( $response->res->code, 200, "Respuesta a la petición $metodo es correcta");
-    ok( $response->headers->Location, "$response->headers->Location tiene el valor correcto" );
   }
 };
 

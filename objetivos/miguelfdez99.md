@@ -55,3 +55,10 @@
 - [x] Entender los conceptos de middleware y URI
 - [x] Aprender a usar Express
 - [x] Realizar los ejercicios sobre [microservicios](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/microservicios.md)
+
+## Décimo cuarta semana
+- [x] Entender el concepto de plataforma como servicio.
+- [x] Entender qué pasos intermedios hay entre una aplicación y su paso a producción.
+- [x] Entender la arquitectura de aplicaciones en plataformas-como-servicio.
+- [x] Usar Heroku como PaaS.
+- [x] Realizar los [ejercicios de autoevaluación](https://github.com/miguelfdez99/Ejercicios-IV/blob/main/docs/paas.md) del tema de PaaS

@@ -1,7 +1,7 @@
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
 | AZAÑON CANTERO, SERGIO| | |
-| BELTRAN SANCHEZ, FRANCISCO| [F1-Predictor](https://github.com/currobeltran/F1-Predictor) | v7.0.4 |
+| BELTRAN SANCHEZ, FRANCISCO| [F1-Predictor](https://github.com/currobeltran/F1-Predictor) | v7.0.5 |
 | CABRITA GOMEZ, VICTOR| | |
 | CANO JEREZ, IRENE| | | |
 | CHAVES CABALLERO, MARIO| | |

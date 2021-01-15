@@ -55,3 +55,8 @@
 -   [x] He conocido los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
 -   [x] He usado frameworks, middlewares y logs.
 -   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/tree/master/tema%206).
+
+## Novena semana
+
+-   [x] He conocido los conceptos necesarios para trabajar con diferentes plataformas PaaS. Además he utilizado la plataforma Heroku para ello. Esta vez he puesto en práctica mis conocimientos de virtualización y he comprendido la la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+-   [x] He realizado [los ejercicios correspondientes al tema](https://github.com/nikitastetskiy/ejercicios-IV/tree/master/tema%207).

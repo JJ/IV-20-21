@@ -13,7 +13,7 @@
 | GAMIZ DELGADO, ANTONIO | | |
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v8.0.4 |
 | GARCIA CASTILLO, ANTONIO| | |
-| GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.7.4 |
+| GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.7.5 |
 | GARCIA MARTINEZ, DAVID| | |
 | HEREDIA CORTES, DAVID| | |
 | GONZALEZ ARGUDO, VICTOR JOSE| | | |

@@ -73,3 +73,5 @@
 - [x] Entender la importancia de los logs para la observabilidad.
 - [x] Entender el concepto de ruta, middleware y URI.
 - [x] Realización de los [ejercicios](https://github.com/juancpineda97/Ejercicios-IV/blob/main/ejercicios/tema6.md) del tema de Microservicios.
+- [x] Entender el concepto de [ruta](http://jj.github.io/IV/documentos/temas/Microservicios).
+- [x] Entender el concepto [de middleware](http://jj.github.io/IV/documentos/temas/Microservicios) en microservicios.

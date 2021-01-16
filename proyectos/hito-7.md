@@ -46,7 +46,7 @@
 | RUIZ MEDINA, DANIEL| | |
 | SANZ SANCHEZ, MARIA| | |
 | SOLERA LINARES, SARA| | |
-| STETSKIY , NIKITA| | |
+| STETSKIY , NIKITA| [Micro-Calendario](https://github.com/nikitastetskiy/micro-calendario) | v7.0.2 |
 | TORRES BAREA, FRANCISCO JAVIER| | |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |

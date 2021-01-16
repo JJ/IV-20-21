@@ -57,3 +57,10 @@
 - [x] Entender la importancia de los logs para la observabilidad.
 - [x] Entender el concepto de ruta, middleware y URI.
 - [x] Realizar los [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/microservicios.md) del tema de Microservicios.
+
+## Ultima semana
+
+- [x] Entender la arquitectura de aplicaciones en plataformas-como-servicio.
+- [x] Conocer los servicios más comunes.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Realizar los 4 primeros [ejercicios](https://github.com/torchu/IV-Ejercicios-y-Objetivos/blob/main/Ejercicios/PaaS.md) del tema.

@@ -38,5 +38,11 @@
 - [x] Entender la correcta configuración de estos sistemas.
 - [x] Realizar los ejercicios de autoevaluación de [integración continua](https://github.com/juanalberto58/EjerciciosIV)
 
+## Novena Semana
 
+- [x] Entender el concepto de Serverless.
+- [x] Investigar sobre los distintos sistemas de Serverless.
+- [x] Hacer la configuración en Vercel y Netlify.
+- [x] Entender la correcta configuración de estos sistemas.
+- [x] Realizar los ejercicios de autoevaluación de [Serverless](https://github.com/juanalberto58/EjerciciosIV)
 

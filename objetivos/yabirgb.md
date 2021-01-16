@@ -64,3 +64,10 @@
 - [x] Buenas prácticas en el diseño del código para APIs.
 - [x] Aprender a hacer logging a un servidor desde python.
 - [x] Conceptos sobre desarrollo asíncrono en Rust orientado a microservicios.
+
+## Ultimas semanas del curso
+
+- [x] Hacer deploy de [aplicaciones en heroku](https://github.com/yabirgb/IV-autoevaluacion/tree/master/paas)
+- [x] Aprender a usar el sistema de addons en heroku
+- [x] Estudiar distintas estrategias de despliegue para proyectos en RUST
+- [x] Leer de distintas alternativas a heroku y plataformas para desplegar sobre todo bases de datos como mongo atlas o fauna.

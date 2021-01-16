@@ -11,9 +11,12 @@ use Git;
 use Mojo::UserAgent;
 use File::Slurper qw(read_text);
 use JSON;
+use JSON::XS;
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
 use YAML qw(LoadFile);
+use IO::Socket::SSL;
+use Scalar::Util qw(looks_like_number);
 
 use v5.14; # For say
 
@@ -142,10 +145,68 @@ SKIP: {
     } else {
       diag "✗ Problemas con la orden del fichero de tareas";
     }
-    ok( $make_command, "URL de despliegue hito 5");
+    ok( $make_command, "Make hito 6");
 
   }
 
+  if ( $this_hito >= 7 ) { # Dockerfile y despliegue
+    doing("hito 7");
+    my $recurso = $iv->{'recurso'};
+    my $url_PaaS = $iv->{'PaaS'};
+    if ( $recurso && $url_PaaS ) {
+       diag "☑ Encontrado el recurso";
+    } else {
+      diag "✗ Problemas con el recurso del hito 7 o el URL del PaaS";
+    }
+    ok( $recurso, "Make hito 7");
+    ok( $url_PaaS, "URL $url_PaaS encontrada");
+    my $metodo = $recurso->{'metodo'};
+    like( $metodo, qr/PUT|POST/, "Método $metodo correcto" );
+    my $payload = $recurso->{'payload'};
+    is( ref $payload, "HASH", "Payload debe ser un hash, no un array" );
+    my $response;
+    if ( $url_PaaS =~ m{/$} ) {
+      chop( $url_PaaS );
+    }
+    my $prefix = $url_PaaS."/".$recurso->{'nombre'};
+    my $jsoner = new JSON::XS;
+    if ( $metodo eq 'PUT' ) {
+      ok( $recurso->{'IDs'}, "Se incluyen las IDs de los recursos enviados o devueltos" );
+      for my $id ( @{$recurso->{'IDs'}} ) {
+        my $URI = "$prefix/$id";
+        $response = $ua->put( $URI => json => $payload );
+        is( $response->res->code, 201, "Respuesta a la petición $metodo sobre $URI es correcta");
+        my $location = $response->res->headers->location;
+        if ( ok( $location, "«location» $location devuelto" ) ) {
+          my $get_URI = ( $location =~ /http/ )? $location : $url_PaaS.$location;
+          is( $ua->get($get_URI)->res->code, 200, "Se puede bajar el creado $id" );
+        }
+      }
+    } else {
+      my $json = $jsoner->encode( force_numbers($payload) );
+      my $response = $ua->post( $prefix => $json );
+      my $mode = "json";
+      if ($response->res->code == 400 ) {
+        $response = $ua->post( $prefix => json => $payload );
+        $mode = ($response->res->code == 400)?"form":"json-plain";
+      }
+      for (my $i = 0; $i <= 3; $i ++ ) {
+        if ( $mode eq "json" ) {
+          $response = $ua->post( $prefix => $json );
+        } elsif ($mode eq "json-plain") {
+          $response = $ua->post( $prefix => json => $payload );
+        } else {
+          $response = $ua->post( $prefix => form => $payload );
+        }
+        is( $response->res->code, 201, "Respuesta a la petición $metodo sobre $prefix es correcta");
+        my $location = $response->res->headers->location;
+        if ( ok( $location, "location «$location» devuelto" ) ) {
+          my $get_URI = ( $location =~ /http/ )? $location : $url_PaaS.$location;
+          is( $ua->get($get_URI)->res->code, 200, "Se puede bajar $location" );
+        }
+      }
+    }
+  }
 };
 
 done_testing();
@@ -247,3 +308,24 @@ sub json_from_status {
   say "Body → $body";
   return from_json( $body );
 }
+
+sub force_numbers
+{  
+    if (ref $_[0] eq "") {
+      if ( looks_like_number($_[0]) ) {
+        $_[0] += 0;
+      } elsif ( $_[0] =~ /true|false/ ) {
+        if ($_[0] eq 'true' ) {
+          $_[0] = \1;
+        } else {
+          $_[0] = \0;
+        }
+      }
+    } elsif ( ref $_[0] eq 'ARRAY' ){
+        force_numbers($_) for @{$_[0]};
+    } elsif ( ref $_[0] eq 'HASH' ) {
+        force_numbers($_) for values %{$_[0]};
+    }   
+
+    return $_[0];
+} 

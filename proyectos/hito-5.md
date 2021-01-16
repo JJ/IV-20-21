@@ -22,7 +22,7 @@
 | IZQUIERDO GARCIA,ANGELA| | |
 | LEJARRAGA RUBIO, ALBERTO| | |
 | LUPIAÑEZ TAPIA, GUILLERMO | [TextAnalyzer](https://github.com/guillelpnz/TextAnalyzer) | v1.5.1 |
-| LUQUE JARAVA, BLANCA| [Lecturas](https://github.com/blancaazz/Lecturas) | v5.0.2 |
+| LUQUE JARAVA, BLANCA| [Lecturas](https://github.com/blancaazz/Lecturas) | v5.0.3 | **Reenvío**
 | MARTIN LEON, ANTONIO| [Buscador-Partidos](https://github.com/antonioml97/BuscadorPartidos) | v.1.4.8  **Reenvío** |
 | MENOR MOLINERO, ALEJANDRO|[que-vemos](https://github.com/AlexMenor/que-vemos) | v1.0.7 |
 | MERELO MOLINA, CECILIA| [VizYourData](https://github.com/cecimerelo/VizYourData) | v3.2.10  **Reenvío**|
@@ -34,10 +34,10 @@
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v3.1.1 **Reenvío**|
 | PEREZ MENDEZ, PABLO| | |
-| PINEDA MUÑOZ, JUAN CARLOS| | |
+| PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats) | v1.5.0 |
 | PRIETO INFANTE, JAVIER| | |
 | REVELLES PEREZ, ANTONIO JOSE| [ListenYourMood](https://github.com/AntonioRev/ListenYourMood) | v1.4.4 |
-| RIVERA PEÑA, JUAN ALBERTO| | |
+| RIVERA PEÑA, JUAN ALBERTO| [YourLife](https://github.com/juanalberto58/AppIV) | v0.3.5 |
 | RODRIGUEZ LOPEZ, ALEJANDRO|[HDN.PG](https://github.com/alexrodriguezlop/HDN.PG)  | v5.0.1 **Reenvío** |
 | ROMERO ORTEGA, JOSE MANUEL| | |
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |

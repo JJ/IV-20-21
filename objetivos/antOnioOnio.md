@@ -63,3 +63,12 @@
 - [x] Hacer los [ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/microservicios.md)
 - [x] Entender el concepto de middleware
 - [x] Entender la importancia de la única fuente de verdad en la programación
+
+
+## Objetivos última semana
+
+- [x] Entender bien el concepto de PaaS
+- [x] Hacer los [ejercicios de autoevaluación](https://github.com/antOnioOnio/IV-autoevaluacion/blob/master/paas.md)
+- [x] Aprender CI en heroku
+- [x] Estudiar persistencia con heroku
+

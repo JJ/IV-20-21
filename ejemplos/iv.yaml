@@ -1,1 +1,12 @@
-entidad: loquesea.raku
+entidad: app/entities/watchable.py
+lenguaje: python
+test: app/tests/unit/test_session.py
+taskfile: pyproject.toml
+URL: https://amazing-villani-e2d732.netlify.app/.netlify/functions/get_trending_watchables
+make: make
+PaaS: https://que-vemos.herokuapp.com
+recurso:
+  nombre: session
+  metodo: POST
+  payload:
+    - no: hay

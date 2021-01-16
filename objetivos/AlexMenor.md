@@ -70,3 +70,10 @@
 
 - [x] Usar etcd en un módulo de configuración. [Lo he usado en el proyecto](https://github.com/AlexMenor/que-vemos/blob/master/app/config/config.py)
 - [x] Buscar información sobre mejores prácticas para un microservicio escrito en python en producción. [He leído esto.](https://fastapi.tiangolo.com/deployment/manually/)
+
+# Última semana
+
+- [x] Usar otro PaaS distinto a Heroku:
+	- He creado [un workflow](https://github.com/AlexMenor/que-vemos/blob/master/.github/workflows/deploy-to-digital-ocean.yml) en mi proyecto para hacer push al registro de contenedores de digital ocean.
+	- [Aquí](https://github.com/AlexMenor/autoevaluacion-iv/blob/master/paas/do-deploy.png) el deploy en App platform
+	- [Aquí](https://github.com/AlexMenor/autoevaluacion-iv/blob/master/paas/do-working.png) mi microservicio funcionando en digital ocean

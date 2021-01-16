@@ -55,7 +55,13 @@
 
  ## Séptima semana
  - [x] Comparar diferentes frameworks para JavaScript.
+ - [x] Elegir herramienta para el log
  - [x] Entiendo el concepto de microservicio.
  - [x] Entender diseño de rutas.
  - [x] Entender el concepto de middleware.
  - [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/tree/master/Tema%20microservicios) del tema sobre microservicios. 
+
+## Octava semana
+- [x] Conocer el concepto de Paas
+- [x] Comprender los conceptos para trabajar con plataformas PaaS
+- [x] Realizados los [ejercicios de autoevaluación](https://github.com/josemip98/EjerciciosIV/blob/master/Tema%20Paas/README.md#ejercicio-1) 1, 2, 3 y 4 del tema sobre Paas. 

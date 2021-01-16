@@ -54,8 +54,21 @@
 - [x] Conocer concepto de microservicio.
 - [x] Uso de frameworks.
 - [x] Uso de gestores de procesos.
-- [x] Entender uso y diferencia de GET, POST y PUT.
+- [x] Entender uso y diferencia de GET, POST, PUT y DELETE.
 - [x] Realización de tests sobre microservicios.
+- [x] Repositorio de [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV)
 - [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s10.md) de la semana correspondiente.
+
+## Decimotercera semana
+
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [x] Justificar la necesidad de procesamiento virtual frente a real en el contexto de una infraestructura TIC de una organización.
+- [x] Comprender los conceptos necesarios para trabajar con diferentes plataformas PaaS
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aplicar el sistema de control de fuentes git para despliegue de aplicaciones en la nube.
+- [x] Realizar los [ejercicios de autoevaluación](https://github.com/FranToBa/Autoevaluacion-IV/blob/main/docs/s13.md) de la semana correspondiente.
+
+
+
 
 

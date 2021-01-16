@@ -70,3 +70,21 @@
 - [x] Entender la importancia de los logs para la observabilidad.
 - [x] Entender el concepto de ruta, middleware y URI.
 - [Ejercicios Microservicios](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/microservicios.md)
+
+## Objetivos semana 13
+
+- [x] Entender qué pasos intermedios hay entre una aplicación y su paso a producción.
+- [x] Entender el concepto de plataforma como servicio.
+
+## Objetivos semana 14
+
+- [x] Entender la arquitectura de aplicaciones en plataformas-como-servicio.
+- [x] Conocer los servicios más comunes.
+- [x] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+- [Ejercicios PaaS](https://github.com/currobeltran/Ejercicios-IV/blob/master/Ejercicios/paas.md)
+
+## Objetivos semana 15
+
+- [x] Entender la importancia de la infraestructura virtual en el desarrollo de software actual.
+- [x] Entender cómo el enfoque ágil y los equipos DevOps cambian la perspectiva de cómo se desarrolla el software.
+- [x] Comprender cómo poder aplicar lo que se ha aprendido en esta asignatura al resto de las asignaturas y TFG: desarrollo ágil basado en test, infraestructura como código.

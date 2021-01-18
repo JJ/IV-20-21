@@ -2,7 +2,7 @@
 |--------|--------|---------|
 | AZAÑON CANTERO, SERGIO| | |
 | BELTRAN SANCHEZ, FRANCISCO| [F1-Predictor](https://github.com/currobeltran/F1-Predictor) | v7.0.6 |
-| CABRITA GOMEZ, VICTOR| | |
+| CABRITA GOMEZ, VICTOR| [GymBot](https://github.com/torchu/GymBot) | v7.0.2 |
 | CANO JEREZ, IRENE| | | |
 | CHAVES CABALLERO, MARIO| | |
 | CHEKFEH AL-SABBAGH, MOHAMED BILAL| | |
@@ -47,7 +47,7 @@
 | SANZ SANCHEZ, MARIA| | |
 | SOLERA LINARES, SARA| | |
 | STETSKIY , NIKITA| [Micro-Calendario](https://github.com/nikitastetskiy/micro-calendario) | v7.0.6 |
-| TORRES BAREA, FRANCISCO JAVIER| | |
+| TORRES BAREA, FRANCISCO JAVIER| [CloudFood](https://github.com/FranToBa/CloudFood)  | v7.0.0 |
 | TORRES CEBALLOS, ALBERTO JESUS| | |
 | VEGA JIMENEZ, ALEJANDRO| | |
 | VEGA PALMA, LEANDRO| | |

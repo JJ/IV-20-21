@@ -71,3 +71,17 @@
 - [x] Realizar peticiones tanto *GET* como *POST* o *PUT* pasando por url parámetros y aprender a manejarlos
 - [x] Aprender a *testear* un microservicio antes del despliegue 
 - [x] Realizar los [ejercicios del tema 6 - microservicios](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%206%20-%20Microservicios/ejerciciosTema6.md)
+
+
+---
+
+## Última Semana: 18/01
+- [x] Entender *PaaS* y diferencia y uso respecto a *IaaS*
+- [x] Utilizar una *PaaS* y buscar la mejor para el proyecto
+- [x] Aprender a navegar por lo *logs*
+- [x] Utilizar heroku local y entender para qué sirve
+- [x] Utilizar una *BBDD*
+- [x] Aprender a conectar una *PaaS* con una *BBDD*
+- [x] Cambiar recursos de una *BBDD* mediante una API
+- [x] Realizar los [ejercicios del tema 7 - PaaS](https://github.com/LCinder/Autoevaluacion-IV/blob/master/Tema%207%20-%20PaaS/ejerciciosTema7.md)
+

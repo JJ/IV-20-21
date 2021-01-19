@@ -79,3 +79,10 @@
 - [ ] Entregar a tiempo.
 - [x] Pasarlo bien.
 - [ ] Hacer ejercicios de [autoevaluación](https://github.com/cecimerelo/EjerciciosIV)
+
+## Semana 14
+
+- [x] Entender qué es un PaaS
+- [x] Desplegar aplicación en un PaaS
+- [x] Elegir herramienta para CD en el PaaS
+- [x] Hacer ejercicios de [autoevaluación](https://github.com/cecimerelo/EjerciciosIV/tree/main/ejercicios/Semana%2014)

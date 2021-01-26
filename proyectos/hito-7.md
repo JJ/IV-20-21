@@ -12,7 +12,7 @@
 | FERNANDEZ TORRALBO, MIGUEL ANGEL| [MyOutlet](https://github.com/miguelfdez99/MyOutlet) | v7.0.6 |
 | GAMIZ DELGADO, ANTONIO | | |
 | GARCIA BENCHAKHTIR, YABIR| [Bukhgalter](https://github.com/yabirgb/bukhgalter) | v8.0.4 |
-| GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.10.1 |
+| GARCIA CASTILLO, ANTONIO| [TenisLeagueAdmin](https://github.com/antOnioOnio/TenisLeagueAdmin) | v1.10.2 |
 | GARCIA COLLADO, JOSE ALBERTO| [Get-Match](https://github.com/joseegc10/get-match) | v1.7.8 |
 | GARCIA MARTINEZ, DAVID| | |
 | HEREDIA CORTES, DAVID| | |

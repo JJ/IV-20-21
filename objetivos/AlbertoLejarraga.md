@@ -15,3 +15,4 @@
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 - [x] En relación a lo anterior, estudiar los distintos tipos de servicios web, viendo cuál es mejor en cada caso, y tomar la decisión de qué tipo de servicio usar para el proyecto
+- [x] Para la entrega en la extraordinaria, revisar todo el proyecto y volver a familiarizarme con los pasos a seguir en la entrega de hitos

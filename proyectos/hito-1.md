@@ -20,7 +20,7 @@
 | HERNANDEZ MORENO, DIEGO| [Order&Go](https://github.com/LCinder/Order-Go)|v0.1.2 **Reenvio**|
 | HIDALGO CARMONA, MANUEL| [ragaeton](https://github.com/venrra/ragaeton) | v1.0.2 |
 | IZQUIERDO GARCIA,ANGELA|[efood](https://github.com/angelaig-ugr/efood)|v1.0.3  **Reenvío**|
-| LEJARRAGA RUBIO, ALBERTO| [percepcion-relativa-deportistas](https://github.com/AlbertoLejarraga/percepcion-relativa-deportistas)| v0.1.1 |
+| LEJARRAGA RUBIO, ALBERTO| [percepcion-relativa-deportistas](https://github.com/AlbertoLejarraga/percepcion-relativa-deportistas)| v0.1.1E **Extraordinaria** |
 | LUPIAÑEZ TAPIA, GUILLERMO | [TextAnalyzer](https://github.com/guillelpnz/TextAnalyzer)| v1.0.3 |
 | LUQUE JARAVA, BLANCA| [Lecturas](https://github.com/blancaazz/Lecturas) | v.1.0.1 |
 | MARTIN LEON, ANTONIO| [Buscador-Partidos](https://github.com/antonioml97/BuscadorPartidos) | v.1.0.5 **REENVÓ**| 

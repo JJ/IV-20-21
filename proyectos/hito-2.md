@@ -30,7 +30,7 @@
 | MOLINERO CASTILLO, JONATHAN| | |
 | MONTESINOS PERUJO, ISMAEL| | |
 | MORENO VILCHEZ, FRANCISCO JOSE| [GetItDone](https://github.com/morevi/GetItDone) | v2.0.2 |
-| NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | v2.0.0 |
+| NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | E |
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v2.1.2 **Segundo reenvío** |
 | PEREZ MENDEZ, PABLO| [Apus](https://github.com/Megatorpon/Apus) | v.1.0.4 **Reenvío**|

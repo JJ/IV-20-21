@@ -23,3 +23,11 @@
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales, enfocándome en el package.json de javascript.
 - [x] Realizar el [ejercicio 2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%203-TDD/Ejercicio%202.md) y el [ejercicio 7](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%203-TDD/Ejercicio%207.md) del tema, sobre testing y generación de package.json, respectivamente.
 - [x] Tratar de seguir profundizando en las buenas prácticas del lenguaje elegido, puesto que antes solo lo había utilizado para el desarrollo de front-end.
+
+## Cuarta semana (Extraordinaria)
+- [x] Entender Docker y el ecosistema de contenedores.
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Instalar y utilizar podman en lugar de Docker como gestor de contenedores
+- [x] Realizar ejercicios del tema, de los cuales el [1](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%204-TDD/Ejercicio%201.md), [2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%204-TDD/Ejercicio%202.md) y [5](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/tree/main/Semana%204-Contenedores/Ejercicio%205) están en los enlaces anteriores.
+- [x] Ver [este video](https://www.youtube.com/watch?v=h6ZbAivhu18) sobre el "deprecado" de docker en la última versión de Kubernetes, siendo esta charla una de las cosas que me han animado a probar podman en vez de Docker para el proyecto
+- [x] Comprender que el uso de las distintas imágenes disponibles pueden hacer que el rendimiento para llevar a cabo una misma tarea sea muy diferente tanto en tiempo como en espacio.

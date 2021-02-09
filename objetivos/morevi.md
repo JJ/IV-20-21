@@ -1,3 +1,5 @@
+Los ejercicios se encuentran en este [repositorio](https://github.com/morevi/iv-ejercicios)
+
 ## Objetivos a cubrir durante la primera semana
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -15,9 +17,16 @@
 - [x] Comprender el concepto de X as a service y comprender los criterios necesarios para su elección.
 - [x] Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
-## Objetivos a cumplir durante la tercera y cuarta semana
+## Objetivos a cumplir durante la tercera semana
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Entender los ficheros de *requisitos* o *dependencias* y su utilidad en las infraestructuras virtuales.
 - [x] Entender el concepto de DevOps.
-- ![Ejercicios](https://github.com/morevi/iv-ejercicios/blob/main/tema2.md)
+
+## Objetivos a cumplir durante la quinta semana
+- [x] Por qué hay que automatizar en lo posible el ciclo de vida del software.
+- [x] En qué consisten el desarrollo basado en pruebas y las pruebas unitarias.
+- [x] Cómo van los tests (en diferentes lenguajes y en general)
+- [x] Por qué se usan entornos virtuales de desarrollo
+- [x] Aprender sobre las herramientas de construcción, y el proceso de construcción, minificación o transpilación
+- [x] Qué es la integración contínua y por qué será nuestra amiga y enemiga

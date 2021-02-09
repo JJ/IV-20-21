@@ -26,7 +26,7 @@ Los ejercicios se encuentran en este [repositorio](https://github.com/morevi/iv-
 ## Objetivos a cumplir durante la quinta semana
 - [x] Por qué hay que automatizar en lo posible el ciclo de vida del software.
 - [x] En qué consisten el desarrollo basado en pruebas y las pruebas unitarias.
-- [x] Cómo van los tests (en diferentes lenguajes y en general)
+- [x] Cómo funcionan los tests.
 - [x] Por qué se usan entornos virtuales de desarrollo
 - [x] Aprender sobre las herramientas de construcción, y el proceso de construcción, minificación o transpilación
 - [x] Qué es la integración contínua y por qué será nuestra amiga y enemiga

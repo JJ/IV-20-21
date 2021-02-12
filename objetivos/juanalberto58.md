@@ -8,5 +8,5 @@
 - [x] Tutoria con el profesor.
 - [x] Explicar el [hito 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). 
 - [x] Empezar a usar git y GitHub.
-- [x] Resubir para convocatoria extraordinaria. 
+- [x] Resubir para convocatoria extraordinaria
 

@@ -23,3 +23,10 @@
 - [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
 - [x] Resubir para convocatoria extraordinaria
 
+## Tercera semana
+
+- [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
+- [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
+- [x] Resubir para convocatoria extraordinaria

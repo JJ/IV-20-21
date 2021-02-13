@@ -31,3 +31,9 @@
 - [x] Realizar ejercicios del tema, de los cuales el [1](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%204-TDD/Ejercicio%201.md), [2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%204-TDD/Ejercicio%202.md) y [5](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/tree/main/Semana%204-Contenedores/Ejercicio%205) están en los enlaces anteriores.
 - [x] Ver [este video](https://www.youtube.com/watch?v=h6ZbAivhu18) sobre el "deprecado" de docker en la última versión de Kubernetes, siendo esta charla una de las cosas que me han animado a probar podman en vez de Docker para el proyecto
 - [x] Comprender que el uso de las distintas imágenes disponibles pueden hacer que el rendimiento para llevar a cabo una misma tarea sea muy diferente tanto en tiempo como en espacio.
+
+## Sexta-Séptima semana (Hito 4 Extraordinaria)
+- [x] Entender el concepto de integración continua y a usarla en una aplicación.
+- [x] Comenzar con la configuración de los sistemas de integración continua.
+- [x] Hacer los ejercicios [1](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%206_7-CI/Ejercicio%201/README.md) y [2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%206_7-CI/Ejercicio%202/README.md) del tema de "Integración Continua" sobre la configuración de Travis.
+- [x] Estudiar los principales sistemas de IC que podía utilizar, y principalmente, Travis, GitHub Actions, JFrog (en especial los "artifacts") y CircleCI.

@@ -37,7 +37,7 @@
 | PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats) | v1.3.2 **Reenvío** |
 | PRIETO INFANTE, JAVIER| | |
 | REVELLES PEREZ, ANTONIO JOSE|[ListenYourMood](https://github.com/AntonioRev/ListenYourMood) | v1.2.2 **Reenvio** |
-| RIVERA PEÑA, JUAN ALBERTO| [YourLife](https://github.com/juanalberto58/AppIV) | v0.2.8 **Reenvio** |
+| RIVERA PEÑA, JUAN ALBERTO| [YourLife](https://github.com/juanalberto58/AppIV) | v0.2.8 **EXTRAORDINARIA** |
 | RODRIGUEZ LOPEZ, ALEJANDRO|[HDN.PG](https://github.com/alexrodriguezlop/HDN.PG)  | v3.0.1  **Reenvío** |
 | ROMERO ORTEGA, JOSE MANUEL| | |
 | RUBIO RODRIGUEZ, JUAN MANUEL| | |

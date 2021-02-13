@@ -39,3 +39,13 @@
 - [x] Actualizar el repositorio de [Ejercicios de Autoevaluación](https://github.com/juanalberto58/EjerciciosIV).
 - [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
 - [x] Resubir para convocatoria extraordinaria
+
+## Sexta Semana
+
+- [x] Entender el concepto de integración continua y su importancia.
+- [x] Investigar sobre los distintos sistemas de integración continua.
+- [x] Hacer la configuración en Travis y Shippable.
+- [x] Entender la correcta configuración de estos sistemas.
+- [x] Realizar los ejercicios de autoevaluación de [integración continua](https://github.com/juanalberto58/EjerciciosIV)
+- [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
+- [x] Resubir para convocatoria extraordinaria

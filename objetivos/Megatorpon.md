@@ -45,3 +45,14 @@
 - [X] Subir contenedor a DockerHub y a GitHub Container Registry
 - [X] Realizar ejercicios de autoevaluación relacionados con el tema 3.
   [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_3)
+  
+  
+### Quinta semana
+
+- [X] Conocer los conceptos sobre integración continua en el software
+- [X] Entender cómo funciona Travis
+- [X] Ver tutoriales sobre el uso de Travis y de CircleCI
+- [X] Indagar sobre el uso de express con node.js
+- [X] Integrar Travis y CircleCI en el proyecto
+- [X] Realizar ejercicios de autoevaluación relacionados con el tema 4.
+  [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_4)

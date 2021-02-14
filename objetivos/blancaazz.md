@@ -136,3 +136,13 @@
 
 - [x] Ejercicios del tema de [Serverless](https://github.com/blancaazz/Ejercicios-IV)
 
+
+## Décima semana
+
+- [x] Entender qué es un test de integración
+
+- [x] Entender la importancia de los logs para la observabilidad
+
+- [x] Entender el concepto de ruta, middleware y URI
+
+- [x] Ejercicios del tema de [Microservicio](https://github.com/blancaazz/Ejercicios-IV)

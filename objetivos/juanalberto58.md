@@ -59,3 +59,12 @@
 - [x] Realizar los ejercicios de autoevaluación de [Serverless](https://github.com/juanalberto58/EjerciciosIV)
 - [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
 - [x] Resubir para convocatoria extraordinaria
+
+## Decima Semana
+
+- [x] Entender el concepto de Microservicio.
+- [x] Entender como diseñar las rutas de un microservicio.
+- [x] Realizar test de integración.
+- [x] Entender el beneficio de configurar middleware y logs.
+- [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
+- [x] Resubir para convocatoria extraordinaria

@@ -32,8 +32,16 @@
 - [x] Ver [este video](https://www.youtube.com/watch?v=h6ZbAivhu18) sobre el "deprecado" de docker en la última versión de Kubernetes, siendo esta charla una de las cosas que me han animado a probar podman en vez de Docker para el proyecto
 - [x] Comprender que el uso de las distintas imágenes disponibles pueden hacer que el rendimiento para llevar a cabo una misma tarea sea muy diferente tanto en tiempo como en espacio.
 
-## Sexta-Séptima semana (Hito 4 Extraordinaria)
+## Sexta-séptima semana (Hito 4 Extraordinaria)
 - [x] Entender el concepto de integración continua y a usarla en una aplicación.
 - [x] Comenzar con la configuración de los sistemas de integración continua.
 - [x] Hacer los ejercicios [1](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%206_7-CI/Ejercicio%201/README.md) y [2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%206_7-CI/Ejercicio%202/README.md) del tema de "Integración Continua" sobre la configuración de Travis.
 - [x] Estudiar los principales sistemas de IC que podía utilizar, y principalmente, Travis, GitHub Actions, JFrog (en especial los "artifacts") y CircleCI.
+
+## Octava-novena semana (Hito 5 extraordinaria)
+- [x] Entender los casos de uso de la tecnología serverless en el concepto de una aplicación virtual.
+- [x] Aplicar el concepto de DevOps a este tipo específico de plataforma.
+- [x] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [x] Realizar los ejercicios del tema, [el 1](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%208_9-Serverless/Ejercicio%201/README.md), [el 2](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%208_9-Serverless/Ejercicio%202/README.md) y [el 3](https://github.com/AlbertoLejarraga/Autoevaluacion-IV-2020/blob/main/Semana%208_9-Serverless/Ejercicio%203/README.md)
+- [x] Estudiar el despliegue en la nube de la base de datos MongoDB
+- [x] Estudiar las formas que tienen los distintos sitios de despliegue para almacenar variables de entorno como es la cadena de conexión a la base de datos.

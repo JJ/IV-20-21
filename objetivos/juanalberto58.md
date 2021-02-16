@@ -68,3 +68,10 @@
 - [x] Entender el beneficio de configurar middleware y logs.
 - [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
 - [x] Resubir para convocatoria extraordinaria
+
+## Última Semana
+
+- [x] Entender el concepto de PaaS.
+- [x] Realizar test de integración en Heroku.
+- [x] Actualizar repo [AppIV](https://github.com/juanalberto58/AppIV) 
+- [x] Resubir para convocatoria extraordinaria

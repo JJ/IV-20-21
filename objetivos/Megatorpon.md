@@ -56,3 +56,13 @@
 - [X] Integrar Travis y CircleCI en el proyecto
 - [X] Realizar ejercicios de autoevaluación relacionados con el tema 4.
   [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_4)
+  
+
+### Sexta semana
+- [X] Comprender los conceptos básicos y los casos de uso de las tecnologías serverless
+- [X] Aprender prácticas seguras en el desarrollo de aplicaciones en la nube.
+- [X] Comprender cómo funcionar Vercel y Netlify y para qué sirven
+- [X] Aprender a usar Vercel y Netlify-
+- [X] Entender cómo funcionan los despliegues
+- [X] Realizar ejercicios de autoevaluación relacionados con el tema 5.
+  [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_5)

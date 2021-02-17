@@ -33,7 +33,7 @@
 | NUÑEZ RUIZ, MANUEL JESUS| [footStats](https://github.com/ManuelJNunez/footStats) | v6.0.0 | 
 | PALOMINO SANCHEZ, GUILLERMO| | |
 | PELEGRINA PELEGRINA, JOSE MIGUEL| [OrganizeUDiet](https://github.com/josemip98/OrganizeUDiet) | v3.2.2 **Reenvío** |
-| PEREZ MENDEZ, PABLO| | |
+| PEREZ MENDEZ, PABLO| [Apus](https://github.com/Megatorpon/Apus) |  v.1.2  Extraordinaria  |
 | PINEDA MUÑOZ, JUAN CARLOS| [LaLigaStats](https://github.com/juancpineda97/LaLigaStats) | v1.6.6 |
 | PRIETO INFANTE, JAVIER| | |
 | REVELLES PEREZ, ANTONIO JOSE| [ListenYourMood](https://github.com/AntonioRev/ListenYourMood) | v1.6.8 **Reenvío** | 

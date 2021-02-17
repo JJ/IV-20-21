@@ -66,3 +66,12 @@
 - [X] Entender cómo funcionan los despliegues
 - [X] Realizar ejercicios de autoevaluación relacionados con el tema 5.
   [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_5)
+  
+  
+### Séptima semana
+- [X] Entender qué es un microservicio
+- [X] Entender qué son los middlewares y para qué sirven
+- [X] Entender el funcionamiento de las rutas en un microservicio
+- [X] Investigar sobre la sintaxis de Express
+- [X] Realizar ejercicios de autoevaluación relacionados con el tema 6.
+  [Enlace ejercicios](https://github.com/Megatorpon/IV-Ejercicios-Autoevaluacion/tree/main/Tema_6)

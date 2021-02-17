@@ -22,7 +22,7 @@
 | IZQUIERDO GARCIA,ANGELA| | |
 | LEJARRAGA RUBIO, ALBERTO| | |
 | LUPIAÑEZ TAPIA, GUILLERMO | [TextAnalyzer](https://github.com/guillelpnz/TextAnalyzer) | 1.6.4 **REENVÍO** |
-| LUQUE JARAVA, BLANCA| [Lecturas](https://github.com/blancaazz/Lecturas) | v6.0.0 |
+| LUQUE JARAVA, BLANCA| [Lecturas](https://github.com/blancaazz/Lecturas) | v6.0.1 |
 | MARTIN LEON, ANTONIO| | |
 | MENOR MOLINERO, ALEJANDRO| [que-vemos](https://github.com/AlexMenor/que-vemos) | v1.0.8 |
 | MERELO MOLINA, CECILIA| [VizYourData](https://github.com/cecimerelo/VizYourData) | v3.3.18 **Reenvío** |
